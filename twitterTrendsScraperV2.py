@@ -8,7 +8,7 @@ LOCATIONS = {
     "UK": "https://twittrend.us/place/23424975/"
 }
 
-TOP_N = 25
+TOP_N = 6
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
