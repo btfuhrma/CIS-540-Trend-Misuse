@@ -33,7 +33,7 @@ def main():
     today_str = datetime.today().strftime("%m-%d-%Y-%H")
     for country, url in LOCATIONS.items():
         df = fetch_trends(url, TOP_N)
-        filename = f"{country}_{today_str}.csv"
+        filename = f"./{country}_Trends/{country}_{today_str}.csv"
         df.to_csv(filename, index=False, encoding="utf-8-sig")
         print(f"Saved {country} trends to {filename}")
 
