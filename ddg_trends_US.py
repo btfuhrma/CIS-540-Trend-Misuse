@@ -86,14 +86,14 @@ def main():
                 print(f"Error searching for {term}: {e}")
 
     # Save updated master JSON and CSV
-    save_json(master_data, os.path.join("JSON_ddg_search", master_json))
-    save_csv(master_data, os.path.join("CSV_ddg_search", master_csv))
+    save_json(master_data, os.path.join(".", master_json))
+    save_csv(master_data, os.path.join(".", master_csv))
     print(f"\nUpdates made to master files:\nJSON: {os.path.join('JSON_ddg_search', master_json)}\nCSV: {os.path.join('CSV_ddg_search', master_csv)}")
 
     # Save timestamped new results
     if new_data:
-        new_json = os.path.join("JSON_ddg_search", f"us_ddg_results_{today}.json")
-        new_csv = os.path.join("CSV_ddg_search", f"us_ddg_results_{today}.csv")
+        new_json = os.path.join("JSON_Search_Results", f"us_ddg_results_{today}.json")
+        new_csv = os.path.join("CSV_Search_Results", f"us_ddg_results_{today}.csv")
         save_json(new_data, new_json)
         save_csv(new_data, new_csv)
         print(f"\nNew results saved to:\nJSON: {new_json}\nCSV: {new_csv}")
