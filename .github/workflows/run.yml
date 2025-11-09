@@ -31,7 +31,8 @@ jobs:
       - name: Run Python script
         run: |
           python twitterTrendsScraperV2.py
-          python ddg_trends.py
+          python ddg_trends_US.py
+          python ddg_trends_UK.py
           python uk_trends_to_google_results_keyed_ratelimit.py ${{ secrets.UK_GOOGLE_API_KEY}}
           python us_trends_to_google_results_keyed_ratelimit.py ${{ secrets.US_GOOGLE_API_KEY}}
           python virus_total_check.py
