@@ -32,7 +32,8 @@ jobs:
         run: |
           python twitterTrendsScraperV2.py
           python ddg_trends.py
-          python google_trends.py
+          python uk_trends_to_google_results_keyed_ratelimit.py ${{ secrets.UK_GOOGLE_API_KEY}}
+          python us_trends_to_google_results_keyed_ratelimit.py ${{ secrets.US_GOOGLE_API_KEY}}
           python virus_total_check.py
 
       - name: Commit and push all changes
