@@ -19,6 +19,7 @@ import sys
 from pathlib import Path
 from typing import List, Dict, Any, Tuple
 from datetime import datetime, timezone
+import os
 
 # 🔑 CREDENTIALS
 GOOGLE_API_KEY = sys.argv[1]
@@ -209,15 +210,15 @@ def main():
 
     if not GOOGLE_API_KEY or not GOOGLE_CSE_ID:
         _fail("Missing GOOGLE_API_KEY / GOOGLE_CSE_ID at top of file.")
-    if not csv_in.exists():
-        _fail(f"Input CSV not found: {csv_in.name}")
+    if not os.path.exists(csv_in):
+        _fail(f"Input CSV not found: {csv_in}")
 
     print("Self-testing credentials...")
     _self_test()
 
     trends = read_top_terms(csv_in, max_terms=TOP_N_TERMS)
     if not trends:
-        _fail(f"No terms found in {csv_in.name}")
+        _fail(f"No terms found in {csv_in}")
     print(f"Loaded {len(trends)} terms")
 
     by_term_run: Dict[str, list] = {}
