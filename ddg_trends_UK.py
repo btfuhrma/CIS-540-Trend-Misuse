@@ -42,7 +42,7 @@ def save_csv(master_data, path):
     os.makedirs(os.path.dirname(path), exist_ok=True)
     with open(path, "w", newline='', encoding="utf-8") as f:
         writer = csv.writer(f)
-        writer.writerow(["term", "title", "url"])
+        writer.writerow(["Term", "Title", "URL"])
         for term, results in master_data.items():
             for r in results:
                 writer.writerow([term, r["title"], r["url"]])
