@@ -200,7 +200,7 @@ def write_csv_master_append(p: Path, rows: List[tuple]) -> None:
 # ---------- Main ----------
 
 def main():
-    stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d-%H")
+    stamp = datetime.now(timezone.utc).strftime("%m-%d-%Y-%H")
     here = Path(__file__).resolve().parent
     csv_in = "US_Trends/US_"+stamp+".csv"
     snapshot_json = f"./JSON_Search_Results/us_google_results_{stamp}.json"

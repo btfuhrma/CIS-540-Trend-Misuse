@@ -29,13 +29,18 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run Python script
-        run: |
-          python twitterTrendsScraperV2.py
+      - name: Run Twitter Trend Scraper
+        run: python twitterTrendsScraperV2.py
+      - name: Run DDG Search
+        run: |    
           python ddg_trends_US.py
           python ddg_trends_UK.py
+      - name: Run Google Search
+        run: |    
           python uk_trends_to_google_results_keyed_ratelimit.py ${{ secrets.UK_GOOGLE_API_KEY}}
           python us_trends_to_google_results_keyed_ratelimit.py ${{ secrets.US_GOOGLE_API_KEY}}
+      - name: Run VirusTotal Check
+        run: |    
           python virus_total_check_CSVinput_V2.py ${{ secrets.VIRUSTOTAL_API_KEY_1 }} ${{ secrets.VIRUSTOTAL_API_KEY_2 }}
 
       - name: Commit and push all changes
