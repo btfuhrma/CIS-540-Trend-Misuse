@@ -10,6 +10,16 @@ Rate-limit-aware Google CSE collector that:
 - Checkpoints after each term to never lose progress
 """
 
+import csv
+import json
+import time
+import math
+import requests
+import sys
+from pathlib import Path
+from typing import List, Dict, Any, Tuple
+from datetime import datetime, timezone
+
 # 🔑 CREDENTIALS
 GOOGLE_API_KEY = sys.argv[1]
 GOOGLE_CSE_ID  = "d5f8a69a19b22423d"
@@ -22,16 +32,6 @@ TERM_SLEEP_SEC = 60.0 / max(RPM_BUDGET, 1)  # sleep after each TERM to respect R
 MAX_RETRIES_429 = 5            # exponential backoff attempts on 429
 CHECKPOINT_EVERY_N_TERMS = 1   # write outputs every N terms (masters)
 TOP_N_TERMS = 25               # limit to top N terms (set to 50 to process all)
-
-import csv
-import json
-import time
-import math
-import requests
-import sys
-from pathlib import Path
-from typing import List, Dict, Any, Tuple
-from datetime import datetime, timezone
 
 GOOGLE_API_ENDPOINT = "https://www.googleapis.com/customsearch/v1"
 
