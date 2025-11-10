@@ -202,11 +202,13 @@ def write_csv_master_append(p: Path, rows: List[tuple]) -> None:
 def main():
     stamp = datetime.now(timezone.utc).strftime("%m-%d-%Y-%H")
     here = Path(__file__).resolve().parent
-    csv_in = "US_Trends/US_"+stamp+".csv"
-    snapshot_json = f"./JSON_Search_Results/us_google_results_{stamp}.json"
-    snapshot_csv  = f"./CSV_Search_Results/us_google_results_{stamp}.csv"
+    csv_in = f"US_Trends/US_{stamp}.csv"
+    snapshot_json = Path(f"./JSON_Search_Results/uk_google_results_{stamp}.json")
+    snapshot_csv  = Path(f"./CSV_Search_Results/uk_google_results_{stamp}.csv")  
     master_json   = here / "us_google_results_master.json"
     master_csv    = here / "us_google_results_master.csv"
+     
+
 
     if not GOOGLE_API_KEY or not GOOGLE_CSE_ID:
         _fail("Missing GOOGLE_API_KEY / GOOGLE_CSE_ID at top of file.")
