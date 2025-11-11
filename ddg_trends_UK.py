@@ -92,8 +92,8 @@ def main():
 
     # Save timestamped new results
     if new_data:
-        new_json = os.path.join("JSON_ddg_search", f"uk_ddg_results_{today}.json")
-        new_csv = os.path.join("CSV_ddg_search", f"uk_ddg_results_{today}.csv")
+        new_json = os.path.join("JSON_Search_Results", f"uk_ddg_results_{today}.json")
+        new_csv = os.path.join("CSV_Search_Results", f"uk_ddg_results_{today}.csv")
         save_json(new_data, new_json)
         save_csv(new_data, new_csv)
         print(f"\nNew results saved to:\nJSON: {new_json}\nCSV: {new_csv}")

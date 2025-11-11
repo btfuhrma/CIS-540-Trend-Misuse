@@ -203,8 +203,8 @@ def main():
     stamp = datetime.now(timezone.utc).strftime("%m-%d-%Y-%H")
     here = Path(__file__).resolve().parent
     csv_in = f"US_Trends/US_{stamp}.csv"
-    snapshot_json = Path(f"./JSON_Search_Results/uk_google_results_{stamp}.json")
-    snapshot_csv  = Path(f"./CSV_Search_Results/uk_google_results_{stamp}.csv")  
+    snapshot_json = Path(f"./JSON_Search_Results/us_google_results_{stamp}.json")
+    snapshot_csv  = Path(f"./CSV_Search_Results/us_google_results_{stamp}.csv")  
     master_json   = here / "us_google_results_master.json"
     master_csv    = here / "us_google_results_master.csv"
      
