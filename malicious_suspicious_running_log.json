@@ -1,0 +1,19 @@
+{
+   "URL": "https://www.facebook.com/Packers/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-11 14:22"
+}{
+   "URL": "https://www.espn.com/nfl/player/_/id/4036378/jordan-love",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-11 14:40"
+}{
+   "URL": "https://sports.yahoo.com/nfl/players/32696/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-11 14:47"
+}
