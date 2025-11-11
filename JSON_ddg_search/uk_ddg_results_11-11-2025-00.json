@@ -1,0 +1,494 @@
+{
+  "The BBC": [
+    {
+      "title": "BBC - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BBC"
+    },
+    {
+      "title": "The BBC",
+      "url": "https://en.wikipedia.org/wiki/The_BBC"
+    },
+    {
+      "title": "Wikipedia BBC News - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/BBC_News"
+    },
+    {
+      "title": "BBC Home - Breaking News, World News, US News, Sports, …",
+      "url": "https://www.bbc.com/"
+    },
+    {
+      "title": "BBC BBC News - Breaking news, video and the latest top stories from the U.S. and around the world",
+      "url": "https://www.bbc.com/news"
+    },
+    {
+      "title": "Learn more about what we do - BBC",
+      "url": "https://www.bbc.com/aboutthebbc/"
+    },
+    {
+      "title": "BBC Live & Breaking World and U.S. News",
+      "url": "https://www.bbc.com/live/news"
+    },
+    {
+      "title": "BBC Sport - Scores, Fixtures, News - Live Sport",
+      "url": "https://www.bbc.com/sport"
+    },
+    {
+      "title": "Football - latest news today, results & video highlights - BBC",
+      "url": "https://www.bbc.com/sport/football"
+    },
+    {
+      "title": "US & Canada | Latest News & Updates - BBC",
+      "url": "https://www.bbc.com/news/us-canada"
+    },
+    {
+      "title": "BBC News, 中文 - 主页",
+      "url": "https://www.bbc.com/zhongwen/simp"
+    },
+    {
+      "title": "BBC Video - World class video news and storytelling from around …",
+      "url": "https://www.bbc.com/video"
+    },
+    {
+      "title": "Africa | Latest News & Updates - BBC",
+      "url": "https://www.bbc.com/news/world/africa"
+    },
+    {
+      "title": "World | Latest News & Updates - BBC",
+      "url": "https://www.bbc.com/news/world"
+    },
+    {
+      "title": "How scandals at the BBC have rocked its leadership over the years",
+      "url": "https://www.pbs.org/newshour/politics/how-scandals-at-the-bbc-have-rocked-its-leadership-over-the-years"
+    },
+    {
+      "title": "Why the BBC Is Facing Its Gravest Crisis in Decades",
+      "url": "https://www.nytimes.com/2025/11/10/world/europe/bbc-news-trump.html"
+    },
+    {
+      "title": "How deep do BBC bias problems go after 'doctored' Trump speech?",
+      "url": "https://www.usatoday.com/story/news/world/2025/11/10/bbc-trump-gaza-bias-allegations/87191498007/"
+    },
+    {
+      "title": "BBC boss and head of news quit over Trump edit | AP News",
+      "url": "https://apnews.com/article/britain-bbc-crisis-trump-panorama-a392fb275af25216ea23537c6f4347e4"
+    },
+    {
+      "title": "YouTube BBC News - YouTube",
+      "url": "https://www.youtube.com/user/bbcnews"
+    },
+    {
+      "title": "GOV.UK BBC - GOV.UK",
+      "url": "https://www.gov.uk/government/organisations/bbc"
+    }
+  ],
+  "Trump": [
+    {
+      "title": "Donald Trump",
+      "url": "https://en.wikipedia.org/wiki/Donald_Trump"
+    },
+    {
+      "title": "Donald Trump | Breaking News & Latest Updates | AP News",
+      "url": "https://apnews.com/hub/donald-trump"
+    },
+    {
+      "title": "The White House President Donald J. Trump",
+      "url": "https://www.whitehouse.gov/administration/donald-j-trump/"
+    },
+    {
+      "title": "Live updates: Senate advances government shutdown bill; Trump ...",
+      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-government-shutdown-congress-giuliani-pardon-syria-live-updates-rcna242768"
+    },
+    {
+      "title": "Trump becomes first sitting president to attend regular ...",
+      "url": "https://www.cbsnews.com/news/trump-washington-commanders-detroit-lions/"
+    },
+    {
+      "title": "Donald Trump News: Latest on the U.S. President | NBC News",
+      "url": "https://www.nbcnews.com/politics/donald-trump"
+    },
+    {
+      "title": "Elections, SCOTUS and Trump: Two days that tarnished the ...",
+      "url": "https://www.cnn.com/2025/11/06/politics/trump-election-mamdani-sherrill-spanberger-scotus-analysis"
+    },
+    {
+      "title": "Trump's Fed Reserve Visit With Chairman Powell Was Epic",
+      "url": "https://townhall.com/tipsheet/saraharnold/2025/07/24/trump-visits-the-federal-reserve-n2660907"
+    },
+    {
+      "title": "'Go to Hell': Trump Torches Schumer as Nominee Deal",
+      "url": "https://townhall.com/tipsheet/saraharnold/2025/08/03/go-to-hell-trump-torches-schumer-as-nominee-deal-collapses-over-democrat-demands-n2661328"
+    },
+    {
+      "title": "Arc De Trump - Townhall",
+      "url": "https://townhall.com/tipsheet/dmitri-bolt/2025/10/17/president-trump-teases-plan-for-new-monument-in-washington-dc-n2665126"
+    },
+    {
+      "title": "Schumer Shutdown: President Trump Calls on Senate to Go",
+      "url": "https://townhall.com/tipsheet/amy-curtis/2025/10/31/donald-trump-filibuster-n2665747"
+    },
+    {
+      "title": "What CNN's Harry Enten Just Said About Trump Is Going to",
+      "url": "https://townhall.com/tipsheet/mattvespa/2025/08/04/what-cnns-harry-enten-just-said-about-trump-is-going-to-drive-libs-insane-n2661343"
+    },
+    {
+      "title": "President Trump Declines to Commit to Two-State Solution, Says …",
+      "url": "https://townhall.com/tipsheet/dmitri-bolt/2025/10/14/president-trump-keeps-his-options-open-when-asked-about-committing-to-a-two-state-solution-n2664933"
+    },
+    {
+      "title": "Trump Still Weighing $2,000 Rebate As He Calls Debt 'Very",
+      "url": "https://townhall.com/tipsheet/dmitri-bolt/2025/10/03/president-trump-considering-2000-tariff-rebate-for-americans-n2664422"
+    },
+    {
+      "title": "Even President Trump Said It's the 'HOTTEST' Ad Out there",
+      "url": "https://townhall.com/tipsheet/abigail-johnson/2025/08/04/american-eagle-stock-surges-after-president-trump-weighs-in-n2661387"
+    },
+    {
+      "title": "AOC Faces Possible Defamation Fallout After Calling Trump a …",
+      "url": "https://townhall.com/tipsheet/saraharnold/2025/07/13/aoc-may-soon-cost-abc-news-a-hefty-fine-n2660288"
+    },
+    {
+      "title": "The Trump Organization The Trump Organization | Luxury Real Estate Portfolio",
+      "url": "https://www.trump.com/"
+    },
+    {
+      "title": "The Economist Donald Trump’s approval rating | The Economist",
+      "url": "https://www.economist.com/interactive/trump-approval-tracker"
+    },
+    {
+      "title": "Instagram President Donald J. Trump (@realdonaldtrump) • Instagram photos and videos",
+      "url": "https://www.instagram.com/realdonaldtrump/"
+    },
+    {
+      "title": "The White House Donald J. Trump – The White House",
+      "url": "https://trumpwhitehouse.archives.gov/people/donald-j-trump/"
+    }
+  ],
+  "#visitegypt": [
+    {
+      "title": "Number sign - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Number_sign"
+    },
+    {
+      "title": "See Egypt Like You’ve Never Imagined - VisitEgypt .com",
+      "url": "https://visitegypt.com/see-egypt-like-youve-never-imagined/"
+    },
+    {
+      "title": "Untitled on Tumblr - # visitegypt",
+      "url": "https://www.tumblr.com/traveljoyegypt/tagged/visitegypt"
+    },
+    {
+      "title": "Sharm El Sheikh Egypt Things to Do | TikTok",
+      "url": "https://www.tiktok.com/find/sharm-el-sheikh-egypt-things-to-do"
+    },
+    {
+      "title": "An Ultimate Travel Guide To Egypt In September 2026",
+      "url": "https://www.luxtripper.co.uk/blog/egypt-in-september/"
+    },
+    {
+      "title": "Egypt e-Visa Online Guide: Apply for Tourist & Group Visas",
+      "url": "https://evisa-to-egypt.info/"
+    },
+    {
+      "title": "Temukan dan simpan ide tentang visit egypt di Pinterest.",
+      "url": "https://id.pinterest.com/ideas/visit-egypt/959989403882/"
+    },
+    {
+      "title": "Best guide in Egypt - Review of My Egy Trip, Luxor, Egypt - Tripadvisor",
+      "url": "https://www.tripadvisor.com/ShowUserReviews-g294205-d27982347-r992339991-My_Egy_Trip-Luxor_Nile_River_Valley.html"
+    },
+    {
+      "title": "Egypt Holidays 2025, A Full List is Here!",
+      "url": "https://www.globalhighlights.com/egypt/public-holidays"
+    },
+    {
+      "title": "Visit Egypt - Egypt » Organiqo",
+      "url": "https://organiqo.com/index.php/profile-11651"
+    },
+    {
+      "title": "How much does it cost to visit Egypt ? - TinyGrab",
+      "url": "https://tinygrab.com/how-much-does-it-cost-to-visit-egypt/"
+    },
+    {
+      "title": "Number sign | Meaning & Symbol | Britannica",
+      "url": "https://www.britannica.com/topic/number-sign"
+    },
+    {
+      "title": "Number Sign - Rules and Examples - GRAMMARIST",
+      "url": "https://grammarist.com/punctuation/number-sign/"
+    },
+    {
+      "title": "Number Sign (#): Definition, Examples & Quiz - ultimatelexicon.com",
+      "url": "https://ultimatelexicon.com/definitions/n/number-sign/"
+    },
+    {
+      "title": "What Is an Octothorpe ? - Computer Hope",
+      "url": "https://www.computerhope.com/jargon/o/octothor.htm"
+    },
+    {
+      "title": "Number Sign Symbol",
+      "url": "https://www.symbols.com/symbol/number-sign"
+    },
+    {
+      "title": "number sign (\\#) - Microsoft Style Guide | Microsoft Learn",
+      "url": "https://learn.microsoft.com/en-us/style-guide/a-z-word-list-term-collections/n/number-sign"
+    },
+    {
+      "title": "Number Sign #: Unicode, Alt Code, HTML, Copy & Paste",
+      "url": "https://symbolwiki.com/en/number"
+    },
+    {
+      "title": "NUMBER SIGN | definition in the Cambridge English Dictionary",
+      "url": "https://dictionary.cambridge.org/us/dictionary/english/number-sign"
+    },
+    {
+      "title": "# Number Sign (Meaning, Type on Keyboard, Copy & Paste)",
+      "url": "https://symbolhippo.com/number-sign/"
+    }
+  ],
+  "Panorama": [
+    {
+      "title": "Panorama",
+      "url": "https://en.wikipedia.org/wiki/Panorama"
+    },
+    {
+      "title": "Wikipedia Panorama (British TV programme) - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Panorama_(British_TV_programme)"
+    },
+    {
+      "title": "Merriam-Webster PANORAMA Definition & Meaning - Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/panorama"
+    },
+    {
+      "title": "Senior Living Retirement Community in Washington State | Panorama",
+      "url": "https://www.panorama.org/"
+    },
+    {
+      "title": "PANORAMA - Definition & Translations | Collins English Dictionary",
+      "url": "https://www.collinsdictionary.com/us/english-language-learning/panorama"
+    },
+    {
+      "title": "PANORAMA Definition & Meaning | Dictionary.com",
+      "url": "https://www.dictionary.com/browse/panorama"
+    },
+    {
+      "title": "Panorama - definition of panorama by The Free Dictionary",
+      "url": "https://www.thefreedictionary.com/panorama"
+    },
+    {
+      "title": "Virtual Travels, 360° Aerial Panoramas , 360° Virtual Tours Around the...",
+      "url": "https://www.airpano.com/"
+    },
+    {
+      "title": "Playtime Panorama",
+      "url": "https://playtime-panorama.superserio.us/"
+    },
+    {
+      "title": "How to watch ‘ Panorama ’ online from anywhere... | Tom's Guide",
+      "url": "https://www.tomsguide.com/entertainment/streaming/watch-panorama-online"
+    },
+    {
+      "title": "21 Panorama ideas | panorama , panorama photography, beautiful...",
+      "url": "https://tr.pinterest.com/denonaj/panorama/"
+    },
+    {
+      "title": "360° Panoramas - Cities in Germany",
+      "url": "https://panorama-cities.net/"
+    },
+    {
+      "title": "BBC chair Samir Shah apologises for Panorama Trump edit",
+      "url": "https://www.bbc.com/news/articles/c4gw001kw97o"
+    },
+    {
+      "title": "bedroom_ panorama _10000x5000 - Panoee – Free 360° Virtual Tour...",
+      "url": "https://panoee.com/360/_bedroom_panorama_10000x5000/"
+    },
+    {
+      "title": "Panorama Free Download | Creative Conor",
+      "url": "https://creativeconor.com/products/panorama-free-download/"
+    },
+    {
+      "title": "Mars Panorama - Curiosity rover: Martian night 360... | 360Cities",
+      "url": "https://www.360cities.net/image/mars-panorama-curiosity-night"
+    },
+    {
+      "title": "Panorama Mountain Resort Panorama Mountain Resort - British Columbia Ski-in / Ski-out Destination | Panorama Mountain Resort",
+      "url": "https://www.panoramaresort.com/"
+    },
+    {
+      "title": "Panorama Panorama - BI & Data Analytics",
+      "url": "https://panorama.com/"
+    },
+    {
+      "title": "Panoramaglobal Home - Panorama Global",
+      "url": "https://panoramaglobal.org/"
+    },
+    {
+      "title": "Natera Panorama – Non-Invasive Prenatal Testing (NIPT) | Natera",
+      "url": "https://www.natera.com/womens-health/panorama-nipt-prenatal-screening/"
+    }
+  ],
+  "#BBUK": [
+    {
+      "title": "BBUK",
+      "url": "https://en.wikipedia.org/wiki/BBUK"
+    },
+    {
+      "title": "' BBUK ' Live Launch Shocks With Night 1 Twist That Puts Housemates...",
+      "url": "https://deadline.com/2025/09/bbuk-live-launch-shocks-eviction-night-1-1236563531/"
+    },
+    {
+      "title": "BBUK on Tumblr",
+      "url": "https://www.tumblr.com/tagged/BBUK"
+    },
+    {
+      "title": "BBUK 2025 This Autumn r/bigbrotheruk",
+      "url": "https://www.reddit.com/r/bigbrotheruk/comments/1k24w84/bbuk_2025_this_autumn/"
+    },
+    {
+      "title": "Bbuk Big Brother Uk GIF - Bbuk Big Brother UK - Discover & Share...",
+      "url": "https://tenor.com/view/bbuk-big-brother-uk-gif-9314624"
+    },
+    {
+      "title": "giphy.com/stickers/ bbuk -fisch-butterbrotundkaviar-MglyDCM...",
+      "url": "https://giphy.com/stickers/bbuk-fisch-butterbrotundkaviar-MglyDCM6vyXLcMqXKV"
+    },
+    {
+      "title": "Explore the top posts tagged with # bbuk on Tumlook. # bbuk has .",
+      "url": "https://www.tumlook.com/tag/bbuk"
+    },
+    {
+      "title": "Discover Top Posts Tagged with # bbuk | Tumgag",
+      "url": "https://www.tumgag.com/tag/bbuk"
+    },
+    {
+      "title": "Big Brother UK (@ bbuk ) on X",
+      "url": "https://twitter.com/bbuk/status/1049773014290747395"
+    },
+    {
+      "title": "X Big Brother UK (@bbuk) / X",
+      "url": "https://x.com/bbuk"
+    },
+    {
+      "title": "X Big Brother UK Gossip (@BBUKGossip) / X",
+      "url": "https://x.com/bbukgossip?lang=en"
+    },
+    {
+      "title": "TikTok 👀 #BBUK | TikTok",
+      "url": "https://www.tiktok.com/@bbuk/video/7424633229073812768"
+    },
+    {
+      "title": "TikTok What am I reading atm? The menu for my local Chinese x #BBUK | TikTok",
+      "url": "https://www.tiktok.com/@bbuk/video/7424627158993177889"
+    },
+    {
+      "title": "YouTube Teja comes for Caroline's \"little group\" 👀 #BBUK #BigBrother - YouTube",
+      "url": "https://www.youtube.com/shorts/2dNi3OZdgcQ"
+    },
+    {
+      "title": "TikTok The four new Housemates made themselves right at home 💛 #BBUK #realitytv #bigbrother | TikTok",
+      "url": "https://www.tiktok.com/@bbuk/video/7555976732663139606"
+    },
+    {
+      "title": "YouTube Tate and Marcus need a time out #BBUK #BigBrother - YouTube",
+      "url": "https://www.youtube.com/shorts/b9YYrVn_2Uc"
+    },
+    {
+      "title": "TikTok Don’t doubt yourself, Dean 😭 #BBUK | TikTok",
+      "url": "https://www.tiktok.com/@bbuk/video/7425355885196725537"
+    },
+    {
+      "title": "YouTube Zelah opens up about his transition #bbuk - YouTube",
+      "url": "https://www.youtube.com/shorts/VU2gozL1_cU"
+    },
+    {
+      "title": "TikTok Petition to make the We Are Ants remix Christmas number one #BBUK | TikTok",
+      "url": "https://www.tiktok.com/@bbuk/video/7299143793440230688"
+    },
+    {
+      "title": "Twitter #bbuk - Search / X",
+      "url": "https://twitter.com/search?q=#bbuk"
+    }
+  ],
+  "GB News": [
+    {
+      "title": "GB News",
+      "url": "https://en.wikipedia.org/wiki/GB_News"
+    },
+    {
+      "title": "Home | GB News",
+      "url": "https://www.gbnews.com/"
+    },
+    {
+      "title": "GB News - DeSmog",
+      "url": "https://www.desmog.com/gb-news/"
+    },
+    {
+      "title": "GB News has lost more than £100m since its launch",
+      "url": "https://www.thelondoneconomic.com/news/gb-news-has-lost-more-than-100m-since-its-launch-390377/"
+    },
+    {
+      "title": "GB News considers suing advertisers who boycott its channel",
+      "url": "https://www.thelondoneconomic.com/news/media/gb-news-considers-suing-advertisers-who-boycott-its-channel-380604/"
+    },
+    {
+      "title": "Ground News",
+      "url": "https://ground.news/interest/gbnewscom"
+    },
+    {
+      "title": "GB News UK: A New Player in the Media Landscape - Health",
+      "url": "https://healthengagement.org/gb-news-uk-a-new-player-in-the-media-landscape/"
+    },
+    {
+      "title": "GB News is now the UK’s fourth biggest news brand, Reuters",
+      "url": "https://bmmagazine.co.uk/in-business/gb-news-is-now-the-uks-fourth-biggest-news-brand-reuters-report-reveals/"
+    },
+    {
+      "title": "GB News losses surge as it faces tougher restrictions on",
+      "url": "https://rxtvinfo.com/2025/gb-news-losses-surge-as-it-faces-tougher-restrictions-on-political-presenters/"
+    },
+    {
+      "title": "GB News to be investigated by Ofcom over Rishi Sunak Q&A -",
+      "url": "https://leftfootforward.org/2024/02/gb-news-to-be-investigated-by-ofcom-over-rishi-sunak-qa/"
+    },
+    {
+      "title": "GB News condemned for going ‘off air’ with loud sustained",
+      "url": "https://screenfice.com/gb-news-condemned-for-going-off-air-with-loud-sustained-beeping-and-adverts-during-remembrance-day-silence/"
+    },
+    {
+      "title": "GBNews - YouTube",
+      "url": "https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ"
+    },
+    {
+      "title": "GB News is starting to challenge the BBC—we should be worried",
+      "url": "https://www.prospectmagazine.co.uk/ideas/media/70040/gb-news-is-starting-to-challenge-the-bbcwe-should-be-worried"
+    },
+    {
+      "title": "Google News - Overview",
+      "url": "https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lTcVA3MUR4Rkg0T0Z6SE5oQkhTZ0FQAQ?hl=en-PK&gl=PK&ceid=PK:en"
+    },
+    {
+      "title": "GB News blew £100,000 getting rid of 'woke' gender... - The Mirror",
+      "url": "https://www.mirror.co.uk/news/politics/gb-news-blew-100000-getting-34174123"
+    },
+    {
+      "title": "Latest UK and World News , Sport and Comment | Express.co.uk",
+      "url": "https://www.express.co.uk/"
+    },
+    {
+      "title": "GB News descends into heated migrant row as host... - Daily Record",
+      "url": "https://www.dailyrecord.co.uk/tv/gb-news-descends-heated-migrant-36024857"
+    },
+    {
+      "title": "GB News Accused of Spreading an 'Antisemitic Conspiracy Theory...",
+      "url": "https://bylinetimes.com/2025/03/17/gb-news-accused-of-spreading-an-antisemitic-conspiracy-theory-unchallenged-but-ofcom-says-it-cant-act/"
+    },
+    {
+      "title": "GB News broadcasts half of all UK stories about... | The Independent",
+      "url": "https://www.the-independent.com/arts-entertainment/tv/news/gb-news-islam-report-uk-b2663469.html"
+    },
+    {
+      "title": "GB News reshuffle as Mark Dolan exits and Eamonn Holmes' co-host...",
+      "url": "https://www.manchestereveningnews.co.uk/news/tv/gb-news-reshuffle-mark-dolan-30620850"
+    }
+  ]
+}

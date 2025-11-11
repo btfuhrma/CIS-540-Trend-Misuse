@@ -1,0 +1,1199 @@
+{
+ "date_scanned": "2025-11-11 01:37",
+ "input_files": [
+  "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+  "./CSV_Search_Results/us_ddg_results_11-11-2025-00.csv"
+ ],
+ "results": [
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.facebook.com/ryanruebl/posts/kicking-back-at-lambeau-enjoying-the-win-gopackgo/1326147788865415/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:50",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.instagram.com/p/DAguZctp4r9/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:51",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.facebook.com/MeanwhileInWi/posts/whos-your-favorite-qb-go-pack-go-packers-gopackgo-brettfavre-aaronrodgers-jordan/1198470572312032/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:51",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.instagram.com/p/C10YL-xPaPy/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://x.com/Go_Pack_Go52",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.linkedin.com/posts/vrushaligaud_gopackgo-footballmom-packersfan-activity-7391295029216047104-v7g_",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.reddit.com/r/GreenBayPackers/comments/17lra6p/go_pack_go/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:53",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.linkedin.com/posts/sean-clifford-79a064161_gopackgo-activity-7366529860229361664-aS01",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:53",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.reddit.com/r/GreenBayPackers/comments/a2efmy/happy_birthday_aron_rodgers_gopackgo/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:54",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://twitter.com/jimrome/status/1941947273916608909",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:54",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.baldwin.senate.gov/imo/media/doc/go_pack_go_act_one_pager.pdf",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:55",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://wilottery.com/games/instant-games/go-pack-go-2630",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:55",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.threads.com/@lambeau.leapers/post/DQw35zUiVcx/so-much-love-for-ja-go-pack-go-nfl-green-bay-packers-football-jaire-alexander",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:55",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.youtube.com/shorts/M64W0uw_lI4",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:56",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://m.facebook.com/TheGreenBayGuy/photos/victory-monday-vibes-gopackgo/1363511185130400/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:56",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://open.spotify.com/track/5YTxqI8T5I8UV84AEz6b7r",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:57",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.amazon.com/WinCraft-Packers-Garden-Double-Banner/dp/B0DQBH9982",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:57",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.dailypress.net/news/local-news/2025/09/football-season-returns-so-does-baldwins-go-pack-go-act/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:58",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.congress.gov/bill/118th-congress/senate-bill/2857",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:58",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 72
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "#GoPackGo",
+   "url": "https://www.jsonline.com/story/sports/nfl/packers/2025/10/30/mike-mccarthy-pat-mcafee-show-packers-steelers-game/86990675007/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:58",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.facebook.com/pondling/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:58",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 64
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.pondco.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:59",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://pond.band/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:59",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://en.wikipedia.org/wiki/Pond_(Australian_band)",
+   "classification": "safe",
+   "timestamp": "2025-11-11 00:59",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 84
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.theparisreview.org/blog/2016/07/18/the-mind-in-solitude-an-interview-with-claire-louise-bennett/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:00",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://en.wikipedia.org/wiki/Pond",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:00",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 73
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.instagram.com/reel/CvpvUd1ITMJ/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:00",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:01",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 63
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://deschutesbrewery.com/products/mirror-pond-pale-ale",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:01",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.instagram.com/ponderers/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:01",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.youtube.com/playlist?list=PLGPT1t4CqpfgUd_pe2EG_ZwdDgDxEbgC2",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:02",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.mass.gov/locations/walden-pond-state-reservation",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:02",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 83
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.kswild.org/conservation-efforts/western-pond-turtle",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:03",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.vtstateparks.com/blog/sterling-pond-hike-stowe-vt",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:03",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.youtube.com/playlist?list=PL60AAC215A8C2D487",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:03",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.wilsonvilleoregon.gov/planning/page/frog-pond-plan",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:04",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.koipondcellars.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:04",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.mattpondpa.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:04",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://pond.global/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:05",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Pond",
+   "url": "https://www.wildlifetrusts.org/actions/how-build-pond",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:05",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 71
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.espn.com/nfl/schedule/mnf",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:05",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.nfl.com/schedules/2025/by-week/reg-10",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:06",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://en.wikipedia.org/wiki/Monday_Night_Football",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:06",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 81
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.nfl.com/schedules/2025/by-week/reg-9",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:06",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.facebook.com/AdamSchefter/posts/the-2025-monday-night-football-schedule/1235495891279689/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:07",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.reddit.com/r/NFLNoobs/comments/1o5zy38/what_is_the_nfl_and_espns_strategy_having_two/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:07",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.cbssports.com/nfl/news/eagles-packers-prediction-odds-line-time-monday-night-football-picks-best-bets/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:08",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.reddit.com/r/nfl/comments/3a1zm6/why_was_dennis_miller_on_monday_night_football_at/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:08",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://abc.com/news/93596275-f2fb-4eb4-a273-e2f43051ce61/category/1138628",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:09",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.theplayerstribune.com/articles/richard-sherman-seahawks-thursday-night-football",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:09",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.courier-journal.com/story/sports/nfl/2025/11/10/where-watch-monday-night-football-tonight-live-who-plays-nfl-game-today-what-time-mnf-eagles-packers/87193515007/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:09",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.nytimes.com/athletic/6794797/2025/11/10/monday-night-football-youtube-espn-abc/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:10",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.instagram.com/reel/DOzJy9REjar/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:10",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.imdb.com/title/tt0065323/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:10",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 64
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://espnpressroom.com/us/press-releases/2025/05/espns-monday-night-football-schedule-features-multiple-appearances-by-the-super-bowl-champion-eagles-the-afc-champion-chiefs-cowboys-and-lions-as-nfl-on-espn-25-game-slate-starts-fast-with/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:11",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://sports.yahoo.com/nfl/article/monday-night-football-how-to-watch-the-philadelphia-eagles-vs-green-bay-packers-nfl-game-tonight-start-time-streaming-and-more-115555130.html",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:11",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://espnpressroom.com/us/press-releases/2025/08/espn-announces-saweetie-as-monday-night-football-music-curator-for-2025-26-season/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:12",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.chiefs.com/news/chiefs-defeat-commanders-28-7-on-monday-night-football",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:12",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://deadline.com/2025/11/packers-eagles-watch-nfl-livestream-online-youtube-abc-espn-1236613252/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:13",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Monday Night Football",
+   "url": "https://www.atlantafalcons.com/news/kirk-cousins-long-history-monday-night-football-philadelphia-eagles-matchup",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:13",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://en.wikipedia.org/wiki/Jimmy_Olsen",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:13",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://www.reddit.com/r/DCU_/comments/1m3z576/shoutout_to_the_recent_superman_media_for_making/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:14",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://superman.fandom.com/wiki/Jimmy_Olsen",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:14",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://www.reddit.com/r/Smallville/comments/krgbpe/what_was_your_response_to_the_jimmy_olsen_reveal/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:15",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://dc.fandom.com/wiki/James_Olsen_(New_Earth)",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:15",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://smallville.fandom.com/wiki/Henry_James_Olsen",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:15",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://www.npr.org/2013/05/30/187276981/my-favorite-superman-story-when-jimmy-olsen-created-beatlemania",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:16",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://www.instagram.com/p/DMa2QkAv_zU/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:16",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://arrow.fandom.com/wiki/James_Olsen",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:17",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://ifanboy.com/articles/dc-histories-jimmy-olsen/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:17",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 72
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://comicsalliance.com/ask-chris-118-whats-so-great-about-jimmy-olsen/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:17",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://www.facebook.com/jgunn/posts/today-is-the-anniversary-of-supermans-best-pal-jimmy-olsen-skylergisondos-perfor/1246299820187004/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:18",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://comicsarcheology.com/index.php/2021/09/02/jimmy-olsen-133/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:18",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://13thdimension.com/paul-kupperberg-my-13-favorite-funky-jimmy-olsen-covers/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:19",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://open.spotify.com/playlist/3efiNXu4H58LQFzVpT1KNy",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:19",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://shelfdust.com/2025/09/10/shelfdusts-column-jimmy-olsen-issue-11/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:20",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://community.cbr.com/threads/how-old-is-jimmy-olsen-supposed-to-be.158211/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:20",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://50yearoldcomics.com/2021/07/03/jimmy-olsen-141-september-1971/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:20",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "http://www.kleefeldoncomics.com/2022/01/jimmy-olsen-mr-action.html",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:21",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Jimmy Olsen",
+   "url": "https://atomicjunkshop.com/the-king-and-the-kook-jack-kirby-takes-over-supermans-pal-jimmy-olsen/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:21",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://mcriblocator.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:22",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.mcdonalds.com/us/en-us/product/mcrib.html",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:22",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 78
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://en.wikipedia.org/wiki/McRib",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:22",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 74
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.reddit.com/r/BBQ/comments/1j8uuuu/give_me_your_best_recipe_for_diy_mcrib/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:23",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://freakonomics.com/2011/12/does-the-mcrib-pork-price-theory-make-any-sense/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:23",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.reddit.com/r/BBQ/comments/zxb2wc/i_was_just_wanna_say_a_mcrib_sandwich_is_actually/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:23",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.theawl.com/2011/11/a-conspiracy-of-hogs-the-mcrib-as-arbitrage/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:24",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 79
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.reddit.com/r/fastfood/comments/k67enz/perspective_the_mcrib_is_back_at_mcdonalds_and/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:24",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://corporate.mcdonalds.com/corpmcd/our-stories/article/mcdonalds-gets-saucy-this-holidayseason-to-celebrate-thereturn-ofthe-mcrib-sandwich.html",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:25",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://electricliterature.com/the-mcdonalds-boyfriend-by-tom-kelly/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:25",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://barbecuebible.com/2025/08/05/mcrib-real-barbecued-rib-sandwich/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:25",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.quora.com/Why-do-people-like-and-look-forward-to-McDonalds-McRib-sandwich",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:26",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.facebook.com/gabrielle.dash.5811/posts/my-all-time-favorite-the-mcrib/1130751375345116/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:26",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.saveur.com/article/Kitchen/Make-Your-Own-McRib-Bigger-Better-and-Always-Available/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:27",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.instagram.com/leomcrib/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:27",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.seriouseats.com/ultimate-homemade-diy-mcrib-recipe",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:28",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.cnn.com/2019/10/04/business/mcdonalds-mcribs-returns",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:28",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://wildflourskitchen.com/2017/12/16/best-copycat-mcrib-sliders/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:28",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.fogocharcoal.com/blogs/cook/homemade-mcdonalds-mcrib",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:29",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "McRib",
+   "url": "https://www.msn.com/en-us/foodanddrink/foodnews/mcdonalds-mcrib-returns-with-a-major-twist-this-year/ar-AA1urUwR?apiversion=v2&noservercache=1&domshim=1&renderwebcomponents=1&wcseo=1&batchservertelemetry=1&noservertelemetry=1",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:29",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://downshift-js.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:30",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://github.com/downshift-js/downshift",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:30",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 74
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.downshift.beer/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:30",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.reddit.com/r/ACCompetizione/comments/kk22ze/can_someone_explain_downshifting/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:31",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://schlaf.medium.com/introducing-downshift-1bb14084d1d6",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:31",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.youtube.com/@dwnshft",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:31",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://davidspinks.substack.com/p/how-to-downshift",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:32",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://bicycles.stackexchange.com/questions/66811/rear-derailleur-does-not-downshift-properly-shifts-up-smoothly",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:32",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.sloww.co/downshifting-simple-living/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:33",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 82
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://f80.bimmerpost.com/forums/showthread.php?t=1615762",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:33",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.instagram.com/downshiftmedia/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:33",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 72
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.facebook.com/groups/1772817813065033/posts/2569142396765900/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:34",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.e90post.com/forums/showthread.php?t=1331585",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:34",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://mechanics.stackexchange.com/questions/1210/does-downshifting-engine-braking-cause-extra-wear-and-tear",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:34",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.m3post.com/forums/showthread.php?t=1392061",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:35",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.civicx.com/forum/threads/beginner-downshift-points-and-other-newbie-questions.57168/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:35",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.downshift.me/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:36",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.quora.com/How-do-you-clutchless-downshift-a-motorcycle",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:36",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-00.csv",
+   "search_term": "Downshift",
+   "url": "https://www.thetruckersreport.com/truckingindustryforum/threads/steep-downhill-and-you-need-to-downshift.211039/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 01:36",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  }
+ ]
+}
