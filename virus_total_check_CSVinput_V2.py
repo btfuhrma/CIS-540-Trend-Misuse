@@ -149,6 +149,13 @@ def main():
     API_KEY = sys.argv[1]
     if datetime.now().hour > 12:
         API_KEY = sys.argv[2]
+
+    # API key debug
+    if API_KEY == sys.argv[1]:
+        print("Using API Key 1")
+    else:
+        print("Using API Key 2")
+
     INPUT_CSVS = get_all_today_csv()
     if INPUT_CSVS is None:
         print("Error: No relevant csv file found.")
