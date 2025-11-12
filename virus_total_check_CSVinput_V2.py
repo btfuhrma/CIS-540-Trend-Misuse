@@ -22,6 +22,8 @@ DIR_OUTPUT = "./VirusTotalResults/"     # Create a folder named scan_results
 running_log_text = "malicious_suspicious_running_log.txt"
 running_log_json = "malicious_suspicious_running_log.json"
 
+API_KEYS = []
+failed_api_keys = set()
 
 def get_latest_indiv_csv(search_source):
     # Returns list of all filenames (wildcard) that follow naming pattern. Allows for time dated CSV arguments.
@@ -57,41 +59,68 @@ def get_all_today_csv():
     return today_csv_all
 
 
-def scan_url_vt(website, api_key):
+def scan_url_vt(website):
     """Scan a single url using Virus Total"""
+    firstSearch = True
+    scanRequired = True
     id = base64.urlsafe_b64encode(f"{website}".encode()).decode().strip("=")    # Required by VT per documentation
     url = f"https://www.virustotal.com/api/v3/urls/{id}"
+    for api_key in API_KEYS:
+        if api_key in failed_api_keys:
+            continue
+        if firstSearch:
+            headers = {
+                "accept": "application/json",
+                "x-apikey": api_key
+            }
 
-    headers = {
-        "accept": "application/json",
-        "x-apikey": api_key
-    }
+            # Call the Virus Total API. Looks for already completed scan's in VT database.
+            response = requests.get(url, headers=headers)
+            print(f"Status Code: {response.status_code}")
+            if response.status_code == 200:
+                return process_response(response, website)
+            elif response.status_code == 404:
+                print(f"URL not found in Virus Total database: {website}")
+                firstSearch = False
+            elif response.status_code == 429:
+                failed_api_keys.add(api_key)
+                print("Virus Total API Key rate limit exceeded during search. Trying next key.")
+                continue
 
-    # Call the Virus Total API. Looks for already completed scan's in VT database.
-    response = requests.get(url, headers=headers)
-    print(f"Status Code: {response.status_code}")
+        # Check if Virus Total scan was successful. Possible that VT did not have previous scan of url in database.
+        if scanRequired:
+            # Website may URL not previously scanned / found in database. Submit for scanning.
+            print(f"URL not found in Virus Total database. Submitting for scan: {website}")
+            vt_url = "https://www.virustotal.com/api/v3/urls"
+            submit_data = {"url": website}
 
-    # Check if Virus Total scan was successful. Possible that VT did not have previous scan of url in database.
-    if response.status_code == 404:
-        # Website may URL not previously scanned / found in database. Submit for scanning.
-        print(f"URL not found in Virus Total database. Submitting for scan: {website}")
-        vt_url = "https://www.virustotal.com/api/v3/urls"
-        submit_data = {"url": website}
+            # Header for POST request. Requires content-type field for new scans (post request).
+            submit_headers = {
+                "accept": "application/json",
+                "x-apikey": api_key,
+                "content-type": "application/x-www-form-urlencoded"
+            }
 
-        # Header for POST request. Requires content-type field for new scans (post request).
-        submit_headers = {
-            "accept": "application/json",
-            "x-apikey": api_key,
-            "content-type": "application/x-www-form-urlencoded"
-        }
+            submission_response = requests.post(vt_url, headers=submit_headers, data=submit_data)
 
-        submission_response = requests.post(vt_url, headers=submit_headers, data=submit_data)
-
-        if submission_response.status_code == 200:
-            print("Successfully submitted URL for scanning. Waiting for result.")
-
+            if submission_response.status_code == 200:
+                scanRequired = False
+                print("Successfully submitted URL for scanning. Waiting for result.")
+            elif submission_response.status_code == 429:
+                print("Virus Total API Key rate limit exceeded during submission. Trying next key.")
+                failed_api_keys.add(api_key)
+                continue
+            else:
+                print(f"Error submitting URL: {submission_response.status_code}")
+                return None
+        if not firstSearch and not scanRequired:
             # API takes time to run scan on new (unseen) website. Wait for new scan to complete.
             max_tries = 5       # Make 5 attempts. Ten-second delay each (see below)
+            submit_headers = {
+                "accept": "application/json",
+                "x-apikey": api_key,
+                "content-type": "application/x-www-form-urlencoded"
+            }
             for attempt in range(max_tries):
                 time.sleep(10)  # Wait 10 seconds allowing VT to complete new scan (i.e. post)
 
@@ -99,17 +128,22 @@ def scan_url_vt(website, api_key):
 
                 if response.status_code == 200:
                     print(f"Status Code: {response.status_code}. Scan completed successfully.")      # Notify user scan done.
+                    return process_response(response, website)
+                elif response.status_code == 429:
+                    print("Virus Total API Key rate limit exceeded during scan retrieval. Trying next key.")
+                    failed_api_keys.add(api_key)
                     break
+                elif response.status_code == 404:
+                    print(f"Scan still processing for {website}. Attempt {attempt + 1} of {max_tries}. Retrying...")
+                    continue
+                else:
+                    print(f"Error scanning {website}: Status {response.status_code}")
+                    print(f"Response: {response.text}")
+                    return None
+    print("All Virus Total API keys have been exhausted or rate limited.")
+    return None
 
-        else:
-            print(f"Error submitting URL: {submission_response.status_code}")
-            return None
-
-    if response.status_code != 200:
-        print(f"Error scanning {website}: Status {response.status_code}")
-        print(f"Response: {response.text}")
-        return None
-
+def process_response(response, website):
     try:
         response_json = json.loads(response.content)
 
@@ -146,15 +180,7 @@ def safety_classifier(result):
 
 def main():
     # Call method to find latest csv
-    API_KEY = sys.argv[1]
-    if datetime.now().hour > 12:
-        API_KEY = sys.argv[2]
-
-    # API key debug
-    if API_KEY == sys.argv[1]:
-        print("Using API Key 1")
-    else:
-        print("Using API Key 2")
+    API_KEYS = [key.strip() for key in sys.argv[1].split(",")]
 
     INPUT_CSVS = get_all_today_csv()
     if INPUT_CSVS is None:
@@ -189,7 +215,7 @@ def main():
 
         # Call the Virus Total Scanner and Store Results
         for i, website in enumerate(websites_to_scan):      # Enumerate to allow matching index in second search_terms list
-            result = scan_url_vt(website, API_KEY)          # scan_url returns dictionary w. data. Assign to result
+            result = scan_url_vt(website)          # scan_url returns dictionary w. data. Assign to result
 
             # Note: Returning None above during errors, allows skipping over failed scans due to encoding issues.
             if result is None:
