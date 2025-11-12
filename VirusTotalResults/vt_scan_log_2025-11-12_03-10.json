@@ -1,0 +1,1331 @@
+{
+ "date_scanned": "2025-11-12 03:55",
+ "input_files": [
+  "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+  "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+  "./CSV_Search_Results/us_ddg_results_11-12-2025-03.csv",
+  "./CSV_Search_Results/uk_ddg_results_11-12-2025-03.csv"
+ ],
+ "results": [
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://dwtsvote.abc.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:10",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://x.com/officialdwts?lang=en",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:11",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://abc.com/show/f66d60e7-29f2-49cf-85dd-44a11bce42e4",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:11",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.instagram.com/p/C_fuEAUOEor/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:11",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.facebook.com/elaine4animals/posts/tuesdays-next-dwts-live-bring-it-dwts-teampartnertrap-elainehendrix/1358054785682581/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:12",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.youtube.com/dancingwiththestars",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:12",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.facebook.com/JulianneHough/posts/shes-pissed-were-shocked-dwts/1341159020709218/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:13",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://dwtstour.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:13",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.facebook.com/TheEmmaSlater/posts/my-season-34-dwts-partner-is-andy-richter-legend-im-so-so-excited-for-us-to-hit-/1341410804010556/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:13",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.reddit.com/r/dancingwiththestars/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:14",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 64
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://en.wikipedia.org/wiki/Dancing_with_the_Stars_(American_TV_series)",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:14",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 81
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.disneyplus.com/browse/entity-7d918be0-4130-4551-aab8-c7dcae85d35f",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:14",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://scfta.org/events/2026/dancing-with-the-stars-2026",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:15",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.reddit.com/r/thebachelor/comments/1h0pf7g/jenn_vs_joey_dwts/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:15",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://open.spotify.com/episode/4793aSIyBaorv1FhTisRkq",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:16",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.reddit.com/r/dancingwiththestars/comments/1fzicai/potential_for_the_return_of_the_spring_cycle_of/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:16",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.usatoday.com/story/entertainment/tv/2025/11/09/joining-dancing-with-the-stars-dwts-2025-cast/86949021007/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:17",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.pajiba.com/tv_reviews/based-on-math-alone-where-does-andy-richters-dwts-run-end.php",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:18",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#DWTS",
+   "url": "https://www.saltlakecountyarts.org/events/dancing-with-the-stars/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:18",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.swpc.noaa.gov/products/aurora-viewline-tonight-and-tomorrow-night-experimental",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:18",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://en.wikipedia.org/wiki/Aurora",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:19",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 70
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.gi.alaska.edu/monitors/aurora-forecast",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:19",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.northern-lights.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:19",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.mtu.edu/tour/copper-country/northern-lights/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:19",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 76
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.space.com/15139-northern-lights-auroras-earth-facts-sdcmp.html",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:20",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.visitnorway.com/things-to-do/nature-attractions/northern-lights/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:20",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 76
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.northernlightspizza.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:20",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://northernlightstheatrepub.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:20",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://buffaloakg.org/art/exhibitions/northern-lights",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:21",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.nli.coop/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:21",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://northernlightsccv.org/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:21",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.banffjaspercollection.com/attractions/banff-gondola/dining/northern-lights/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:22",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 78
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.schoolofnorthernlights.org/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:22",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://northernlightscandles.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:22",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.anchorage.net/winter/things-to-do/northern-lights-viewing/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:22",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 75
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://northern.lights.mn/",
+   "classification": "malicious",
+   "timestamp": "2025-11-12 03:23",
+   "malicious_count": 4,
+   "suspicious_count": 0,
+   "safe_count": 62
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.nlcschool.org/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:23",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Northern Lights",
+   "url": "https://www.equinor.com/energy/northern-lights",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:23",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://x.com/housewivesofslc?lang=en",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:24",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.reddit.com/r/rhoslc/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:24",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 78
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.instagram.com/p/CYuV-spv5PS/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:24",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.facebook.com/Bravo/posts/seated-for-rhoslc/1170519631607882/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:25",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.instagram.com/p/CerCnvluh6y/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:25",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.facebook.com/Bravo/posts/still-thinking-about-this-rhoslc/1166645298661982/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:26",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.instagram.com/p/DEnVUK8SUIT/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:26",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.booksquadgoals.com/blog/receipts-proof-and-timelines-that-rhoslc-is-more-complex-than-you-think",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:26",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.youtube.com/shorts/o_gd3ICnMN8",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:27",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.youtube.com/watch?v=US1gmqqDECY",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:27",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.youtube.com/watch?v=q7xn0u3LIuI",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:28",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.realitytea.com/2025/01/23/why-meredith-marks-leaving-rhoslc-might-be-best-reunion/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:28",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.vulture.com/article/real-housewives-of-salt-lake-city-recap-season-5-episode-11.html",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:29",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://en.wikipedia.org/wiki/The_Real_Housewives_of_Salt_Lake_City",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:29",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 81
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://betches.com/rhoslc-mexico-trip-real-hotels/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:29",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.linkedin.com/posts/justin-wachman-98809a26_rhoslc-activity-6973746402388516864-5hp8",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:30",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://open.spotify.com/episode/37MPjLIWCSR0ifIJs4szAP",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:30",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://open.spotify.com/episode/2OVh0OzgIq57K2dlIcMAE9",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:31",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://podcasts.apple.com/tt/podcast/rhoslc-wine-tasting-rhop-fraud-alerts/id1279562874?i=1000731893022",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:31",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#RHOSLC",
+   "url": "https://www.etsy.com/market/rhoslc_keychain",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:31",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.instagram.com/wwenxt/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:32",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://x.com/WWENXT",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:32",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.wwe.com/shows/wwenxt",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:32",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.facebook.com/WWE.JeffHardyBrand/posts/shawnmichaels-who-let-these-boyz-in-herenxtshowdown-87c-thecw-wwenxt-tiktok/1327998778682136/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:33",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.imdb.com/title/tt1601141/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:33",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 73
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.facebook.com/WWE.JeffHardyBrand/posts/new-wwenxt-tag-team-champions-the-hardys-wwenxt/1327871532028194/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:34",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://m.facebook.com/therealrikishi/photos/congrats-lance_anoai-nephew-god-never-miss-wwenxt-letsgotowork-bloodline-son-of-/1121645412655670/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:34",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.facebook.com/WWE.JeffHardyBrand/posts/matthardy-thank-you-for-having-our-back-at-wwenxt-halloweenhavoc-arizona-you-guy/1343639777118036/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:34",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://en.wikipedia.org/wiki/WWE_NXT",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:35",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 81
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.facebook.com/jdeanwilliams/posts/its-a-wwenxt-reunion-well-something-like-that-remember-in-2019-when-i-made-a-son/736300641644603/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:35",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.reddit.com/r/SquaredCircle/comments/1d8s4rz/wwe_nxt_wwenxt_on_x_after_officially_signing/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:36",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.youtube.com/channel/UC9YHZGzVhgZJRhqYOoBQ_zA",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:36",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.reddit.com/r/SquaredCircle/comments/1nw75ll/the_cw_sports_on_x_year_1_wwenxt/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:36",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.nascar.com/news-media/2024/10/23/stone-cole-custer-gets-in-the-ring-at-wwe-nxt-show/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:37",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://twitter.com/WWENXT/status/1291201712821338114",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:37",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "#WWENXT",
+   "url": "https://www.tiktok.com/@dmcintyrewwe/video/7416110206469328159",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:38",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.gotolouisville.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:38",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://louisville.edu/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:38",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://louisvilleky.gov/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:39",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://en.wikipedia.org/wiki/Louisville,_Kentucky",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:39",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 78
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.louisvilleco.gov/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:39",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://gocards.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:39",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.flylouisville.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:40",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.espn.com/college-football/team/_/id/97/louisville-cardinals",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:40",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 73
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.slugger.com/en-us/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:40",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.sluggermuseum.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:40",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.loucity.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:41",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://louisvillezoo.org/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:41",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://louisvillemegacavern.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:41",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.louisvilleorchestra.org/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:42",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.racingloufc.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:42",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://louisvillewater.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:42",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.louisvillepalace.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:42",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.louisvilleohio.gov/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:43",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://www.lvjco.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:43",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Louisville",
+   "url": "https://21cmuseumhotels.com/louisville/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:43",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://www.wfu.edu/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:43",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://www.wakeforestnc.gov/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:44",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://www.wakehealth.edu/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:44",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://admissions.wfu.edu/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:44",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://en.wikipedia.org/wiki/Wake_Forest_University",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:44",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 82
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://www.espn.com/college-football/team/_/id/154/wake-forest-demon-deacons",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:45",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 84
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://godeacs.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:45",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://school.wakehealth.edu/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:45",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://godeacs.com/sports/football",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:45",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 72
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://about.wfu.edu/athletics/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:46",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 79
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://wakeforestchamber.org/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:46",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://about.wfu.edu/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:46",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://wakeforestmuseum.org/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:46",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://hr.wfu.edu/careers/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:47",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://zsr.wfu.edu/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:47",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://business.wfu.edu/masters-in-management/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:47",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://graduate.wfu.edu/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:48",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://giving.wfu.edu/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:48",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://sps.wfu.edu/programs/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:48",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-12-2025-03.csv",
+   "search_term": "Wake Forest",
+   "url": "https://magazine.wfu.edu/2017/07/07/a-calling/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:49",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://www.bbc.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:49",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://www.bbc.co.uk/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:49",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 71
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://www.bbc.com/news",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:49",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://www.bbc.co.uk/news",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:50",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://en.wikipedia.org/wiki/BBC",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:50",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://www.youtube.com/@BBC",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:50",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 73
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://www.libdems.org.uk/bbc",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:51",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://microbit.org/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:51",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 70
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://www.cbc.ca/news/world/bbc-trump-speech-9.6973686",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:51",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 70
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://www.dropsitenews.com/p/bbc-civil-war-gaza-israel-biased-coverage",
+   "classification": "suspicious",
+   "timestamp": "2025-11-12 03:51",
+   "malicious_count": 0,
+   "suspicious_count": 1,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://careers.bbc.co.uk/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://shop.bbc.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 70
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://account.bbc.com/tvcode",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://help.bbc.com/hc/en-us/articles/42652680528659-Update-on-access-to-BBC-Sounds-outside-the-UK",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/modernising-bbc-operating-licence",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:53",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://productions.bbcstudios.com/our-production-brands/the-natural-history-unit/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:53",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://assets.publishing.service.gov.uk/media/5a80c6d740f0b6230269570c/57964_CM_9365_Charter_Accessible.pdf",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:53",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-12-2025-03.csv",
+   "search_term": "The BBC",
+   "url": "https://sound-effects.bbcrewind.co.uk/",
+   "classification": "safe",
+   "timestamp": "2025-11-12 03:54",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  }
+ ]
+}

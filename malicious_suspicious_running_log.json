@@ -16,4 +16,16 @@
    "suspicious": 1,
    "harmless": 78,
    "timestamp": "2025-11-11 14:47"
+}{
+   "URL": "https://northern.lights.mn/",
+   "malicious": 4,
+   "suspicious": 0,
+   "harmless": 62,
+   "timestamp": "2025-11-12 03:23"
+}{
+   "URL": "https://www.dropsitenews.com/p/bbc-civil-war-gaza-israel-biased-coverage",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-12 03:51"
 }

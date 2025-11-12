@@ -1,3 +1,5 @@
 suspicious: https://www.facebook.com/Packers/
 suspicious: https://www.espn.com/nfl/player/_/id/4036378/jordan-love
 suspicious: https://sports.yahoo.com/nfl/players/32696/
+malicious: https://northern.lights.mn/
+suspicious: https://www.dropsitenews.com/p/bbc-civil-war-gaza-israel-biased-coverage
