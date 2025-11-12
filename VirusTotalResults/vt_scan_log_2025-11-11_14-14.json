@@ -1,0 +1,1331 @@
+{
+ "date_scanned": "2025-11-11 14:58",
+ "input_files": [
+  "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+  "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+  "./CSV_Search_Results/us_ddg_results_11-11-2025-14.csv",
+  "./CSV_Search_Results/uk_ddg_results_11-11-2025-14.csv"
+ ],
+ "results": [
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://en.wikipedia.org/wiki/Veterans_Day",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:14",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 81
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://department.va.gov/veterans-day/history-of-veterans-day/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:14",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 71
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.military.com/veterans-day",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:14",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 78
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://department.va.gov/veterans-day/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:14",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.history.com/articles/veterans-day-facts",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:15",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.nps.gov/subjects/npscelebrates/veterans-day.htm",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:15",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 81
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.war.gov/News/Feature-Stories/story/article/1675470/5-facts-to-know-about-veterans-day/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:16",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.history.com/articles/history-of-veterans-day",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:16",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.opm.gov/frequently-asked-questions/pay-and-leave-faq/pay-administration/what-are-federal-holidays/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:16",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 72
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.va.gov/opa/publications/celebrate/vetday.pdf",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:17",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 81
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.opm.gov/policy-data-oversight/pay-leave/federal-holidays/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:17",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.va.gov//",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:17",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 70
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.lakeway-tx.gov/2142/Veterans-Day",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:18",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://kingcounty.gov/en/shared-topics/about-king-county/holiday-closures-impacts/veterans-day",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:18",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.census.gov/newsroom/facts-for-features/2024/veterans-day.html",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:18",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 70
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://themilitarywallet.com/veterans-day-free-meals-and-discounts/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:18",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.gilbertaz.gov/departments/parks-and-recreation/special-events-and-permits/veterans-day",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:19",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.cityofhenderson.com/government/departments/mayor-and-council/veterans-day-ceremony",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:19",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.apexnc.org/1804/Veterans-Day-Ceremony",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:20",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Veterans Day",
+   "url": "https://www.hampton.gov/4260/Veterans-Day-Celebration",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:20",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.packers.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:20",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.espn.com/nfl/team/_/name/gb/green-bay-packers",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:21",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 70
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://x.com/packers",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:21",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://en.wikipedia.org/wiki/Green_Bay_Packers",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:21",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 79
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.instagram.com/packers/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:21",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.packershofandtours.com/explore/heritage-trail",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:22",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 83
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.reddit.com/r/GreenBayPackers/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:22",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 65
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.nfl.com/teams/green-bay-packers/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:22",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.facebook.com/Packers/",
+   "classification": "suspicious",
+   "timestamp": "2025-11-11 14:22",
+   "malicious_count": 0,
+   "suspicious_count": 1,
+   "safe_count": 72
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.ams.usda.gov/rules-regulations/packers-and-stockyards-act",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:23",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 79
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://islandpackers.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:23",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://brooklynsupportedagriculture.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:23",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 71
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.philadelphiaeagles.com/news/eagles-packers-daily-updates-jaelan-phillips",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:24",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://wisconsindot.gov/Pages/dmv/vehicles/title-plates/greenbay.aspx",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:24",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 71
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.ams.usda.gov/services/enforcement/psd",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:24",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 83
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.usatoday.com/sports/nfl/green-bay-packers",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:25",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.ams.usda.gov/sites/default/files/media/PSAct.pdf",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:25",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.packersproshop.com/green-bay-packers-collections/23-classic-collection",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:25",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://packershoes.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:26",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Packers",
+   "url": "https://www.packersnews.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:26",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.facebook.com/tripleh/posts/thrilled-to-have-pat-mcafee-every-week-on-wweraw-welcome-home-pat/930663708421888/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:26",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.instagram.com/p/C8nkFh9OgK6/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:27",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.facebook.com/83Weeks/posts/cm-punk-is-a-class-actwwe-cmpunk-wweraw/1343931004400492/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:27",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.instagram.com/p/Ca0l44aM8RO/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:28",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.reddit.com/r/SquaredCircle/comments/1l60hd6/cory_hays_on_x_yclbyct_wweraw/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:28",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.instagram.com/p/DKI0wdTKnMW/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:29",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.imdb.com/title/tt0185103/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:29",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 81
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.instagram.com/p/DDYtBCJu-iL/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:29",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://en.wikipedia.org/wiki/WWE_Raw",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:30",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 70
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.instagram.com/p/DGMaF4cMv8M/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:30",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.reddit.com/r/WWE/comments/1nnym6e/wwe_raw_discussion_22_september_2025/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:30",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.netflix.com/title/81788927",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:31",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.linkedin.com/posts/jackcfarmer_wweraw-aewdynamite-activity-7262894195328131073-h1ey",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:31",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.netflix.com/tudum/articles/wwe-raw-netflix-release-date-news",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:32",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://x.com/WWE",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:32",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.youtube.com/shorts/KGdEsNdZYLk",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:33",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://twitter.com/WWEAustralia/status/1967486814450856048",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:33",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://abema.tv/video/title/652-2",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:33",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "#WWERaw",
+   "url": "https://www.tiktok.com/@kellyclarksonshow/video/7480277182204366123",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:34",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.healthcare.gov/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:34",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://en.wikipedia.org/wiki/Affordable_Care_Act",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:34",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 79
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.healthcare.gov/glossary/affordable-care-act/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:35",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 76
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.healthinsurance.org/obamacare/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:35",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 83
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.hhs.gov/healthcare/index.html",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:35",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.coveredca.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:35",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1111/vote_111_1_00396.htm",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:36",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.politico.com/news/2025/11/10/legal-immigrants-face-loss-of-obamacare-help-threatening-insurance-markets-00643210",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:36",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.bbc.com/news/world-us-canada-24370967",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:36",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 71
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.cato.org/blog/six-reasons-not-extend-enhanced-obamacare-subsidies",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:37",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.cnn.com/2017/01/20/politics/trump-signs-executive-order-on-obamacare",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:37",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.healthaffairs.org/do/10.1377/forefront.20180103.261091/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:38",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.nbcnews.com/politics/congress/trump-doubles-saying-obamacare-sucks-must-replaced-rcna126978",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:38",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 71
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://abcnews.go.com/Health/obamacare-explained-idiot/story?id=21292932",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:38",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 64
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.nytimes.com/2015/06/26/us/obamacare-supreme-court.html",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:38",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 84
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4983913",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:39",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.nytimes.com/2017/02/07/upshot/one-third-dont-know-obamacare-and-affordable-care-act-are-the-same.html",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:39",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 58
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.texasattorneygeneral.gov/news/releases/ag-paxton-and-wisconsin-ag-file-20-state-lawsuit-end-grip-obamacare-texas-and-nation",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:39",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.kff.org/interactive/subsidy-calculator/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:40",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Obamacare",
+   "url": "https://www.pbs.org/newshour/health/3-years-in-no-sign-of-trumps-replacement-for-obamacare",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:40",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.espn.com/nfl/player/_/id/4036378/jordan-love",
+   "classification": "suspicious",
+   "timestamp": "2025-11-11 14:40",
+   "malicious_count": 0,
+   "suspicious_count": 1,
+   "safe_count": 79
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://en.wikipedia.org/wiki/Jordan_Love",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:41",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.instagram.com/jordan3love/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:41",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.pro-football-reference.com/players/L/LoveJo03.htm",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:41",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.nfl.com/players/jordan-love/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:41",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.espn.co.uk/nfl/player/_/id/4036378/jordan-love",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:42",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://utahstateaggies.com/sports/football/roster/jordan-love/3437",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:42",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 80
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.reddit.com/r/GreenBayPackers/comments/14epilz/why_do_so_many_nfl_fans_want_jordan_love_to_fail/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:42",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://signature.theplayerstribune.com/jordan-love-nfl-football-green-bay-packers/p/1",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:43",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.reddit.com/r/GreenBayPackers/comments/18z9g7z/jordan_love_has_a_weak_arm/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:43",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.packers.com/news/packers-qb-jordan-love-reflects-on-his-time-as-aaron-rodgers-backup-oct-22-2025",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:44",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://x.com/jordan3love?lang=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:44",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.facebook.com/ESPNMadison/posts/if-jordan-love-was-%F0%9D%99%9A%F0%9D%99%A1%F0%9D%99%9E%F0%9D%99%A9%F0%9D%99%9A-the-packers-are-4-0how-do-you-feel-about-jordan-loves-r/1472278418237643/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:45",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://tarletonsports.com/sports/football/roster/jordan-love/12015",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:45",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.readoptional.com/p/what-jordan-loves-debut-tells-us",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:45",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://uvafralinartmuseum.virginia.edu/m-jordan-love",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:46",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://www.golongtd.com/p/jordan-love-will-be-an-all-time-great",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:46",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://sports.yahoo.com/nfl/players/32696/",
+   "classification": "suspicious",
+   "timestamp": "2025-11-11 14:47",
+   "malicious_count": 0,
+   "suspicious_count": 1,
+   "safe_count": 78
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://towsontigers.com/sports/football/roster/jordan-love/3781",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:47",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Jordan Love",
+   "url": "https://styleblueprint.com/nashville/everyday/remembering-leslie-jordan/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:47",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.facebook.com/pondling/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:48",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 64
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.pondco.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:48",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://pond.band/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:48",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://en.wikipedia.org/wiki/Pond_(Australian_band)",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:48",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 84
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.theparisreview.org/blog/2016/07/18/the-mind-in-solitude-an-interview-with-claire-louise-bennett/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:49",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://en.wikipedia.org/wiki/Pond",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:49",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 73
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:49",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 63
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.instagram.com/reel/CvpvUd1ITMJ/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:49",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://deschutesbrewery.com/products/mirror-pond-pale-ale",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:50",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.instagram.com/ponderers/?hl=en",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:50",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.youtube.com/playlist?list=PLGPT1t4CqpfgUd_pe2EG_ZwdDgDxEbgC2",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:50",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.kswild.org/conservation-efforts/western-pond-turtle",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:50",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.mass.gov/locations/walden-pond-state-reservation",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:51",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 83
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.vtstateparks.com/blog/sterling-pond-hike-stowe-vt",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:51",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.youtube.com/playlist?list=PL60AAC215A8C2D487",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:51",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.wilsonvilleoregon.gov/planning/page/frog-pond-plan",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:51",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.mattpondpa.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 67
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.koipondcellars.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://pond.global/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/us_google_results_11-11-2025-14.csv",
+   "search_term": "Pond",
+   "url": "https://www.wildlifetrusts.org/actions/how-build-pond",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:52",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 71
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://www.bbc.com/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:53",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://www.bbc.co.uk/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:53",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 71
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://www.bbc.com/news",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:53",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://en.wikipedia.org/wiki/BBC",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:54",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://www.bbc.co.uk/news",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:54",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 69
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://www.youtube.com/@BBC",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:54",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 73
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://www.libdems.org.uk/bbc",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:55",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://microbit.org/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:55",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 70
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://www.theguardian.com/media/bbc",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:55",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 73
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://www.cbc.ca/news/world/bbc-trump-speech-9.6973686",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:56",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://careers.bbc.co.uk/",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:56",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 68
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://help.bbc.com/hc/en-us/articles/42652680528659-Update-on-access-to-BBC-Sounds-outside-the-UK",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:56",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  },
+  {
+   "csv_source": "./CSV_Search_Results/uk_google_results_11-11-2025-14.csv",
+   "search_term": "The BBC",
+   "url": "https://www.ofcom.org.uk/tv-radio-and-on-demand/bbc/modernising-bbc-operating-licence",
+   "classification": "safe",
+   "timestamp": "2025-11-11 14:57",
+   "malicious_count": 0,
+   "suspicious_count": 0,
+   "safe_count": 0
+  }
+ ]
+}
