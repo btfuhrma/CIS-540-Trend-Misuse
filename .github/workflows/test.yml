@@ -1,0 +1,11 @@
+name: Test IP Config for runner
+on:
+  workflow_dispatch:
+
+jobs:
+    test-ip-config:
+        runs-on: ubuntu-latest
+    
+        steps:
+        - name: Check IP configuration
+          run: ip a
