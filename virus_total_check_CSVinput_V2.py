@@ -44,7 +44,9 @@ def get_all_today_csv():
         "us_google_results_",
         "uk_google_results_",
         "us_ddg_results_",
-        "uk_ddg_results_"
+        "uk_ddg_results_",
+        "ru_google_results_",
+        "ru_ddg_results_"
     ]
 
     today_csv_all = []

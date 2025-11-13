@@ -5,10 +5,11 @@ from datetime import datetime
 
 LOCATIONS = {
     "US": "https://twittrend.us/",
-    "UK": "https://twittrend.us/place/23424975/"
+    "UK": "https://twittrend.us/place/23424975/",
+    "RU" : "https://twittrend.us/place/23424936/"
 }
 
-TOP_N = 6
+TOP_N = 20
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
