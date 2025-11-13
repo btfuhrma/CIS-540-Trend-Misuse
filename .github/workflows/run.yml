@@ -35,6 +35,7 @@ jobs:
         run: |    
           python ddg_trends_US.py
           python ddg_trends_UK.py
+          python ddg_trends_RU.py
       - name: Run Google Search
         run: |    
           python uk_trends_to_google_results_keyed_ratelimit.py ${{ secrets.UK_GOOGLE_API_KEY}}
