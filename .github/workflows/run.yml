@@ -41,7 +41,7 @@ jobs:
           python us_trends_to_google_results_keyed_ratelimit.py ${{ secrets.US_GOOGLE_API_KEY}}
       - name: Run VirusTotal Check
         run: |    
-          python virus_total_check_CSVinput_V2.py ${{ secrets.VIRUSTOTAL_API_KEY_1 }} ${{ secrets.VIRUSTOTAL_API_KEY_2 }}
+          python virus_total_check_CSVinput_V2.py ${{ secrets.VIRUS_TOTAL_API_KEYS }}
 
       - name: Commit and push all changes
         run: |
