@@ -61,6 +61,7 @@ def get_all_today_csv():
 
 def scan_url_vt(website):
     """Scan a single url using Virus Total"""
+    global failed_api_keys
     firstSearch = True
     scanRequired = True
     id = base64.urlsafe_b64encode(f"{website}".encode()).decode().strip("=")    # Required by VT per documentation
@@ -180,6 +181,7 @@ def safety_classifier(result):
 
 def main():
     # Call method to find latest csv
+    global API_KEYS
     API_KEYS = [key.strip() for key in sys.argv[1].split(",")]
 
     INPUT_CSVS = get_all_today_csv()
@@ -223,7 +225,7 @@ def main():
                 continue
 
             classification = safety_classifier(result)      # Pass VT dictionary for single url to classifer method.
-
+            
             todays_results.append({
                 "csv_source": single_csv,
                 "search_term": search_terms[i],
