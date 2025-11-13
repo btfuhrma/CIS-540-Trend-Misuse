@@ -1,0 +1,10 @@
+{
+ "date_scanned": "2025-11-13 03:12",
+ "input_files": [
+  "./CSV_Search_Results/us_google_results_11-13-2025-03.csv",
+  "./CSV_Search_Results/uk_google_results_11-13-2025-03.csv",
+  "./CSV_Search_Results/us_ddg_results_11-13-2025-03.csv",
+  "./CSV_Search_Results/uk_ddg_results_11-13-2025-03.csv"
+ ],
+ "results": []
+}
