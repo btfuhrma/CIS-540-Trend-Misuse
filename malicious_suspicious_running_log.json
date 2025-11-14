@@ -28,4 +28,46 @@
    "suspicious": 1,
    "harmless": 68,
    "timestamp": "2025-11-12 03:51"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Good_Friday_Agreement",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-14 14:20"
+}{
+   "URL": "https://www.bbc.com/news/uk-northern-ireland-61968177",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-14 14:21"
+}{
+   "URL": "https://www.bbc.com/news/world-us-canada-48913377",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-14 14:28"
+}{
+   "URL": "https://poets.org/poem/el-dorado",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 78,
+   "timestamp": "2025-11-14 14:35"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Good_Friday_Agreement",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-14 14:47"
+}{
+   "URL": "https://www.facebook.com/officialfoden/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-14 14:59"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-14 15:19"
 }
