@@ -202,7 +202,6 @@ def main():
                 "suspicious_count": result['suspicious'],
                 "safe_count": result['harmless']
             })
-            time.sleep(15)  # Rate limit due to Virus Total API MAX 4 queries/min
 
             # Populate output_txt_file.txt file.
             with open(output_txt_file, "a") as file_object:
