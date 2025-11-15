@@ -70,4 +70,112 @@
    "suspicious": 0,
    "harmless": 83,
    "timestamp": "2025-11-14 15:19"
+}{
+   "URL": "https://northern.lights.mn/",
+   "malicious": 4,
+   "suspicious": 0,
+   "harmless": 62,
+   "timestamp": "2025-11-15 03:11"
+}{
+   "URL": "https://www.facebook.com/Packers/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-15 03:11"
+}{
+   "URL": "https://www.bbc.com/news/world-us-canada-48913377",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-15 03:11"
+}{
+   "URL": "https://en.wikipedia.org/wiki/World_Kindness_Day",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-15 03:11"
+}{
+   "URL": "https://www.theguardian.com/politics/keir-starmer",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-15 03:12"
+}{
+   "URL": "https://www.dropsitenews.com/p/bbc-civil-war-gaza-israel-biased-coverage",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-15 03:12"
+}{
+   "URL": "https://www.battleredblog.com/2024/9/23/24252583/monday-night-football-double-feature-open-thread",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-15 03:14"
+}{
+   "URL": "https://wakahire.com/blog/top-green-bay-packers-twitter-1761202093996",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-15 03:15"
+}{
+   "URL": "https://www.sotwe.com/hashtag/GoPackGo",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-15 03:15"
+}{
+   "URL": "https://www.tumlook.com/tag/gopackgo",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-15 03:15"
+}{
+   "URL": "https://en.wikipedia.org/wiki/World_Kindness_Day",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-15 03:15"
+}{
+   "URL": "https://convoyofhope.org/articles/world-kindness-day/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-15 03:15"
+}{
+   "URL": "https://www.bbc.com/live/news",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 72,
+   "timestamp": "2025-11-15 03:15"
+}{
+   "URL": "https://www.dailymail.co.uk/news/bbc/index.html",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-15 03:15"
+}{
+   "URL": "https://www.bbc.com/historyofthebbc",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 83,
+   "timestamp": "2025-11-15 03:15"
+}{
+   "URL": "https://www.sotwe.com/nudesoftwt?lang=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-15 03:17"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-15 03:18"
+}{
+   "URL": "https://my.mail.ru/mail/mikola21226/video/_myvideo/326.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-15 03:18"
 }
