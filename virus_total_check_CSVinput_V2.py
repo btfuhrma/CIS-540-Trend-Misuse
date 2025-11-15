@@ -220,7 +220,7 @@ def main():
                 "safe_count": result['harmless']
             })
 
-            scan_result_handler(result, url, single_csv, url_term_map[url], classification, output_txt_file)
+            scan_result_handler(result, url, classification, output_txt_file)
 
         if unresolved:
             print(f"\nSubmitting all unresolved URLs for scanning. Count: {len(unresolved)}")
