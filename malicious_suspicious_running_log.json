@@ -868,4 +868,346 @@
    "suspicious": 1,
    "harmless": 65,
    "timestamp": "2025-11-16 04:06"
+}{
+   "URL": "https://www.bbc.com/news/world-us-canada-48913377",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-16 14:17"
+}{
+   "URL": "https://www.tcbubbas.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:18"
+}{
+   "URL": "https://x.com/RepMTG",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 14:20"
+}{
+   "URL": "https://scholar.google.com/citations?user=Ujun714AAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:22"
+}{
+   "URL": "https://mikefarrellsports.com/college/at-30-3-at-halftime-i-stupidly-wrote-a-pro-shane-beamer-article/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:23"
+}{
+   "URL": "https://www.bbc.com/news/world-us-canada-48913377",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-16 14:24"
+}{
+   "URL": "https://scholar.google.com/citations?user=Ujun714AAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:25"
+}{
+   "URL": "https://www.facebook.com/ryanadams/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-16 14:25"
+}{
+   "URL": "https://scholar.google.com/citations?user=aYDfdl0AAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 14:28"
+}{
+   "URL": "https://www.bbc.com/news/world-latin-america-12166905",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-16 14:29"
+}{
+   "URL": "https://www.on3.com/teams/ole-miss-rebels/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-16 14:30"
+}{
+   "URL": "https://watchmmafull.com/ufc-322-malcolm-wellmaker-vs-ethyn-ewing-november-15-2025.html",
+   "malicious": 0,
+   "suspicious": 3,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:31"
+}{
+   "URL": "https://watchmmafull.com/ufc-322-valentina-shevchenko-vs-zhang-weili-november-15-2025.html",
+   "malicious": 0,
+   "suspicious": 3,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:34"
+}{
+   "URL": "https://debatepolitics.com/threads/who-was-the-worst-politician-running-for-president-in-recent-times.579620/page-7",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:34"
+}{
+   "URL": "https://watchmmafull.com/ufc-322-leon-edwards-vs-carlos-prates-november-15-2025.html",
+   "malicious": 0,
+   "suspicious": 3,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:34"
+}{
+   "URL": "https://www.24vids.com/shorts/good-morning-happy-sunday-sundayvibes-p-tw-1865729891188007271",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:34"
+}{
+   "URL": "https://namingquest.com/name-insights/first-name-female/valentina",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:35"
+}{
+   "URL": "https://debatepolitics.com/threads/trump-said-he-quit-hanging-w-epstein-in-the-early-2000s-the-recent-emails-prove-they-were-still-hanging-as-late-as-2017-2019-heres-the-lesson.582097/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:35"
+}{
+   "URL": "https://debatepolitics.com/threads/bill-clinton-expresses-some-cynicism-over-netanyahus-motivations.571725/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:35"
+}{
+   "URL": "https://debatepolitics.com/threads/bill-clinton-sent-warm-and-gushing-letter-for-jeffrey-epsteins-50th-birthday.573681/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:35"
+}{
+   "URL": "https://mp3top40.net/article/shane-beamer-s-bold-strategy-letting-alabama-score",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 64,
+   "timestamp": "2025-11-16 14:35"
+}{
+   "URL": "https://debatepolitics.com/threads/monica-lewinsky-resurfaces-says-clinton-should-have-resigned-over-affair.562720/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:35"
+}{
+   "URL": "https://www.mediaite.com/tag/donald-trump/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-16 14:35"
+}{
+   "URL": "https://watchmmafull.com/ufc-322-leon-edwards-vs-carlos-prates-november-15-2025.html",
+   "malicious": 0,
+   "suspicious": 3,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:37"
+}{
+   "URL": "https://ringmagazine.com/en/news/adam-azim-stops-kurt-scoby-result-eubank-benn",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:40"
+}{
+   "URL": "https://www.24vids.com/shorts/bbclaurak-i-think-the-bank-of-england-said-the-prospects-were-putriedhalf-an-p-tw-1888530560730980696",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:40"
+}{
+   "URL": "https://twittertrends.org/united-kingdom/brighton/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:41"
+}{
+   "URL": "https://scholar.google.com/citations?user=ZDd74lsAAAAJ&hl=ru",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 14:41"
+}{
+   "URL": "https://lensov-theatre.spb.ru/repertoire/malaya-scena/valentin-i-valentina2/",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-16 14:41"
+}{
+   "URL": "https://www.okolo.ru/shows/yesterday/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 14:42"
+}{
+   "URL": "https://web.telegram.org/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-16 14:42"
+}{
+   "URL": "https://t.me/ipotekabankofficial",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-16 14:42"
+}{
+   "URL": "https://www.bbc.com/russian/news-57046422",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-16 14:42"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-16 14:42"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Islam",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-16 14:43"
+}{
+   "URL": "https://www.uri.org/kids/world-religions/muslim-beliefs",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-16 14:43"
+}{
+   "URL": "https://disneyworld.disney.go.com/events-tours/magic-kingdom/mickeys-very-merry-christmas-party/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-16 14:43"
+}{
+   "URL": "https://dzen.ru/news",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 14:46"
+}{
+   "URL": "https://www.gazeta.ru/tags/person/ilon_mask.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-11-16 14:46"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u042d\u043f\u0448\u0442\u0435\u0439\u043d,_\u0414\u0436\u0435\u0444\u0444\u0440\u0438",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-16 14:47"
+}{
+   "URL": "https://news.mail.ru/card/1175/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 14:47"
+}{
+   "URL": "https://www.britannica.com/place/Ukraine",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-16 14:47"
+}{
+   "URL": "https://korrespondent.net/ukraine/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:47"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Islam",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-16 14:47"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Cookie_Run:_Kingdom",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-16 14:48"
+}{
+   "URL": "https://music.mychords.net/ru/mayak/129344-mayak-chestno.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:51"
+}{
+   "URL": "https://my.mail.ru/music/songs/\u043c\u0438\u0445\u0430\u0438\u043b-\u0448\u0443\u0444\u0443\u0442\u0438\u043d\u0441\u043a\u0438\u0439-\u043e\u0431\u043e\u0436\u0430\u044e-42a2e6237d5199274e24e21a473cbb6d",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 14:51"
+}{
+   "URL": "https://archive.twitter-trending.com/russia/19-07-2025",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:51"
+}{
+   "URL": "https://news.bitcoin.com/bitcoin-price-watch-stuck-in-the-basement-is-a-bounce-or-breakdown-next/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 14:51"
+}{
+   "URL": "https://my.mail.ru/music/songs/alvintoday-\u0447\u0435\u0441\u0442\u043d\u043e-\u0447\u0435\u0441\u0442\u043d\u043e-f5c71ac988d820a42c86080aa1c4b330",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 14:52"
+}{
+   "URL": "https://tweets24.com/russia",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:52"
+}{
+   "URL": "https://www.gazeta.ru/social/news/2025/11/16/27194096.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 14:52"
+}{
+   "URL": "https://archive.twitter-trending.com/russia/24-07-2025",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:52"
+}{
+   "URL": "https://rtvi.us/politics/shutku-o-seks-kompromate-putina-na-trampa-nashli-u-epshtejna-v-perepiske/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-16 14:52"
+}{
+   "URL": "https://telegram.tips/blog/instant-view-for-telegram-browser/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 14:52"
+}{
+   "URL": "https://www.rub-in.ru/news/ustroystvo-bpla/",
+   "malicious": 2,
+   "suspicious": 2,
+   "harmless": 65,
+   "timestamp": "2025-11-16 14:52"
+}{
+   "URL": "https://ura.news/news/1053035732",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-16 14:52"
 }
