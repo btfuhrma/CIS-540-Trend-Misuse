@@ -574,4 +574,298 @@
    "suspicious": 0,
    "harmless": 65,
    "timestamp": "2025-11-15 15:04"
+}{
+   "URL": "https://www.espn.com/mens-college-basketball/team/_/id/41/uconn-huskies",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 77,
+   "timestamp": "2025-11-16 03:23"
+}{
+   "URL": "https://open.spotify.com/artist/6HaGTQPmzraVmaVxvz6EUc",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-16 03:24"
+}{
+   "URL": "https://jungkookglobal.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-16 03:24"
+}{
+   "URL": "https://scholar.google.com/citations?user=canLUdYAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 03:30"
+}{
+   "URL": "https://zagacenters.com/zaga-network/dr-maxim-kopylov-zaga-center-moscow/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-16 03:31"
+}{
+   "URL": "https://strictlyjazzsounds.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-16 03:31"
+}{
+   "URL": "https://www.bbc.com/news/world-us-canada-48913377",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-16 03:31"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Jack_Catterall",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-16 03:34"
+}{
+   "URL": "https://www.wellspan.org/doctors/mark-f-catterall-york-pa-2620121",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-16 03:37"
+}{
+   "URL": "https://ringmagazine.com/en/news/zaur-abdullaev-withdraws-from-adam-azim-fight-azim-to-remain-on-eubank-benn-card-1",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-16 03:38"
+}{
+   "URL": "https://www.on3.com/teams/alabama-crimson-tide/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-16 03:38"
+}{
+   "URL": "https://www.britannica.com/place/Georgia",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 77,
+   "timestamp": "2025-11-16 03:38"
+}{
+   "URL": "https://www.instagram.com/bronny/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-11-16 03:39"
+}{
+   "URL": "https://www.britannica.com/biography/Bo-Jackson",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-16 03:41"
+}{
+   "URL": "https://www.espn.com/sportscentury/features/00016045.html",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-16 03:41"
+}{
+   "URL": "https://www.24vids.com/shorts/still-thinking-about-that-andrew-mukuba-hithookem-texas-p-tw-1866178212570726691",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 03:45"
+}{
+   "URL": "https://watch-wrestling.eu/aew-collision-11-15-2025/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 03:45"
+}{
+   "URL": "https://watchmmafull.com/ufc-322-roman-kopylov-vs-gregory-rodrigues-november-15-2025.html",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 66,
+   "timestamp": "2025-11-16 03:45"
+}{
+   "URL": "https://www.tumlook.com/tag/godawgs",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 03:46"
+}{
+   "URL": "https://my.mail.ru/music/songs/iowa-\u043c\u0430\u043b\u044c\u0447\u0438\u043a-radio-edit-d24817f8f3de09ce5f236926f7ea4285",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-16 03:46"
+}{
+   "URL": "https://watchwrestling.ae/aew-collision-11-15-25-15th-november-2025/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-16 03:46"
+}{
+   "URL": "https://jamix.cc/30466-iowa-malchik.html",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-16 03:46"
+}{
+   "URL": "https://www.fullmmareplay.pro/ufc-322-roman-kopylov-vs-gregory-rodrigues-sunday-november-16-2025/",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-16 03:47"
+}{
+   "URL": "https://www.amazon.com/Nikita-The-Complete-First-Season/dp/B0042KA5EK",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 78,
+   "timestamp": "2025-11-16 03:48"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Jack_Catterall",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-16 03:50"
+}{
+   "URL": "https://www.gameon.club/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-16 03:50"
+}{
+   "URL": "https://test.liveball.st/match/1323357",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 03:54"
+}{
+   "URL": "https://www.24vids.com/shorts/he-knows-where-the-line-is-allblacks-engvnzl-p-tw-1852746126606131619",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 03:54"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D0%B8%D1%8F",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-16 03:56"
+}{
+   "URL": "https://web.telegram.org/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-16 03:56"
+}{
+   "URL": "https://t.me/ipotekabankofficial",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-16 03:57"
+}{
+   "URL": "https://www.bbc.com/russian/news-57046422",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-16 03:57"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-16 03:57"
+}{
+   "URL": "https://lensov-theatre.spb.ru/repertoire/malaya-scena/valentin-i-valentina2/",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-16 04:00"
+}{
+   "URL": "https://www.mfa.am/ru/embassies/es",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-16 04:00"
+}{
+   "URL": "https://scholar.google.com/citations?user=ZDd74lsAAAAJ&hl=ru",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 04:01"
+}{
+   "URL": "https://www.okolo.ru/shows/yesterday/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 04:01"
+}{
+   "URL": "https://t.me/sochitypical",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-16 04:02"
+}{
+   "URL": "https://www.xe.com/en/currencyconverter/convert/?Amount=1&From=USD&To=EUR",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-16 04:02"
+}{
+   "URL": "https://support.microsoft.com/en-us/office/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-16 04:02"
+}{
+   "URL": "https://support.microsoft.com/en-us/windows/change-the-refresh-rate-on-your-monitor-in-windows-c8ea729e-0678-015c-c415-f806f04aae5a",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-16 04:02"
+}{
+   "URL": "https://notegpt.io/ai-detector",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-16 04:02"
+}{
+   "URL": "https://quordly.org/",
+   "malicious": 3,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-16 04:02"
+}{
+   "URL": "https://quordle.cc/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 04:02"
+}{
+   "URL": "https://gramotej.ru/predlagayu-ili-predlogayu-kak-pishetsya/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-16 04:05"
+}{
+   "URL": "https://kinogo.biz/31313-3324-bitva-ekstrasensov-2.html",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-16 04:05"
+}{
+   "URL": "https://www.revolut.com/currency-converter/convert-usd-to-eur-exchange-rate/?amount=5.",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-16 04:05"
+}{
+   "URL": "https://www.gazeta.ru/tags/geo/sochi.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-16 04:05"
+}{
+   "URL": "https://www.napishi.top/podderzhivayu-ili-poderzhivayu-kak-pravilno-pishetsya/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-16 04:06"
 }
