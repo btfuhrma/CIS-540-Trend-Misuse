@@ -144,23 +144,25 @@ def safety_classifier(result):
         return "error"
 
 
-def scan_result_handler(result, website, classification, output_txt_file):
+def scan_result_handler(result, website, classification, output_txt_file, country, engine):
     # Populate output_txt_file.txt file.
     with open(output_txt_file, "a") as file_object:
         if classification == 'malicious':
-            file_object.write(f"Malicious: {website} \n")
+            file_object.write(f"Malicious: {country} {engine} {website} \n")
         elif classification == 'suspicious':
-            file_object.write(f"Suspicious: {website}\n")
+            file_object.write(f"Suspicious: {country} {engine} {website}\n")
         elif classification == 'safe':
-            file_object.write(f"Safe: {website}\n")
+            file_object.write(f"Safe: {country} {engine} {website}\n")
         else:
-            file_object.write(f"Error: {website}\n")
+            file_object.write(f"Error: {country} {engine} {website}\n")
 
     # Update running malicious_suspicious logs (text and json files)
     if classification == 'malicious' or classification == 'suspicious':
         with open(running_log_text, 'a') as running_outfile1:
-            running_outfile1.write(f"{classification}: {website}\n")
+            running_outfile1.write(f"{classification}: {country} {engine} {website}\n")
         with open(running_log_json, 'a') as running_outfile2:
+            result["country"] = country
+            result["engine"] = engine
             json.dump(result, running_outfile2, indent=3)
 
 
@@ -184,6 +186,8 @@ def main():
         print(f"\nProcessing: {single_csv}")
 
         url_term_map = {}
+
+        country, engine, __, __ = single_csv.split("/")[2].split("_")
 
         # Open the CSV containing URL's to scan.
         with open(single_csv, 'r', encoding="utf-8") as csv_file_object:
@@ -211,6 +215,8 @@ def main():
 
             todays_results.append({
                 "csv_source": single_csv,
+                "country": country,
+                "engine": engine,
                 "search_term": url_term_map[url],
                 "url": url,
                 "classification": classification,
@@ -220,7 +226,7 @@ def main():
                 "safe_count": result['harmless']
             })
 
-            scan_result_handler(result, url, classification, output_txt_file)
+            scan_result_handler(result, url, classification, output_txt_file, country, engine)
 
         if unresolved:
             print(f"\nSubmitting all unresolved URLs for scanning. Count: {len(unresolved)}")
@@ -249,6 +255,8 @@ def main():
 
                 todays_results.append({
                     "csv_source": single_csv,
+                    "country": country,
+                    "engine": engine,
                     "search_term": url_term_map[url],
                     "url": url,
                     "classification": classification,
@@ -258,7 +266,7 @@ def main():
                     "safe_count": result['harmless']
                 })
 
-                scan_result_handler(result, url, classification, output_txt_file)
+                scan_result_handler(result, url, classification, output_txt_file, country, engine)
 
             unresolved = still_pending
 
