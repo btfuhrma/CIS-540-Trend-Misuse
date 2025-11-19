@@ -2928,4 +2928,516 @@
    "timestamp": "2025-11-18 15:01",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://drive.ky.gov/Pages/index.aspx",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:16",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/United_States_men%27s_national_soccer_team",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-19 03:16",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://izzo.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:17",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-middle-east-42008809",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-19 03:18",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.trudysuggs.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:18",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/KansasBand/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-19 03:18",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.josephjewell.com/news/shiloh-hill-vineyard-a-serendipitous-conversation-and-new-release/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-19 03:18",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.wellsfuneralhome.com/obituaries/bradley-suggs",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-19 03:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Cloudflare",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-19 03:23",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://community.cloudflare.com/t/how-do-i-add-a-cname-record/59",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-19 03:23",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/jakepaul/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-11-19 03:24",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.britannica.com/place/North-Macedonia",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-19 03:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.espn.com/soccer/team/_/id/164/spain",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-19 03:26",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.northsidechapel.com/m/obituaries/Brennan-Johnson-3/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.mpp.org/states/kentucky/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 83,
+   "timestamp": "2025-11-19 03:29",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/United_States_men's_national_soccer_team",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-19 03:29",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://tulane.edu/academics",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 63,
+   "timestamp": "2025-11-19 03:30",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://izzo.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:31",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://worldpopulationreview.com/countries/saudi-arabia",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-19 03:31",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.m.wikipedia.org/wiki/College_Football_Playoff",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 63,
+   "timestamp": "2025-11-19 03:31",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://anthonyphc.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/theovalonbet",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-19 03:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://ukdevilz.com/watch/-154463402_456239040",
+   "malicious": 1,
+   "suspicious": 2,
+   "harmless": 66,
+   "timestamp": "2025-11-19 03:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://markinout.com/tag/wwenxt/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-19 03:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/theovalonbet",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-19 03:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.facebook.com/WWENXT/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-19 03:38",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://1max.top/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-19 03:38",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.24vids.com/shorts/hearts2hearts-the-chase-moving-clip-hearts2hearts-the-1st-single-the-chase-p-tw-1889692334658564176",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-19 03:39",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Gemini_3",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-19 03:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/place/North-Macedonia",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-19 03:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.omniglot.com/writing/danish.htm",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-19 03:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.nigeriagalleria.com/Nigeria/States_Nigeria/Kwara/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/lineofduty",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-19 03:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.footballmad.co.uk/tag/brennan-johnson/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://dng24.co.uk/robbo-here-to-stay/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://watchwrestling.ae/wwe-nxt-11-18-25-18th-november-2025/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-19 03:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Cloudflare",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-19 03:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://community.cloudflare.com/t/how-do-i-add-a-cname-record/59",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-19 03:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.youtube.com/watch?v=-k5GoFaYjcg",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-19 03:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D0%B8%D1%8F",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-19 03:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 76,
+   "timestamp": "2025-11-19 03:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D0%BB%D1%8C,_%D0%BD%D0%B5%D1%82_%D1%80%D1%83%D0%B6%D1%8C%D1%8F",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://helpdesk.foundation/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-19 03:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://pasteria.bar/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-19 03:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%AD%D0%BF%D1%88%D1%82%D0%B5%D0%B9%D0%BD,_%D0%94%D0%B6%D0%B5%D1%84%D1%84%D1%80%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-19 03:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://xn--80aaieumwdryc.xn--p1ai/about",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-19 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=3176644652",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-19 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://tsaritsyno-museum.ru/park/locations/bolshaya-polyana/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-19 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/discussions/forum/26/619568192802368324/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-19 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://wordlegame.org/ru",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 81,
+   "timestamp": "2025-11-19 03:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u041c\u0430\u0442\u044c",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 72,
+   "timestamp": "2025-11-19 03:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://music.mychords.net/modern/234939-modern-zhal.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/songs/\u0430\u043d\u0442\u0430\u0440\u0435\u0441-\u043e\u0447\u0435\u043d\u044c-\u0436\u0430\u043b\u044c-c50c4e6d14894c53d0f3f8c0db842f2a",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-19 03:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://xakep.ru/2016/01/26/crashsafari/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-19 03:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://t.me/geekhackers/406",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-19 03:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://m.gazeta.ru/tags/person/donald_tramp.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-19 03:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://techcommunity.microsoft.com/blog/azuredevcommunityblog/\u00a1github-copilot-gratis-ahora-al-alcance-de-todos/4356908",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-19 03:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://slovozavr.ru/davajte/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-19 03:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/community/slovo_volnuet/6F976520EA42DE6F.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-19 03:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.hip-hop.ru/forum/hvatit-79343/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-19 03:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://mychords.net/de/ella/122188-ella-mozhet-xvatit.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-19 03:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/songs/gavrilina-\u0445\u0432\u0430\u0442\u0438\u0442-fbb7bb0922056fb1b51433bca9e69943",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-19 03:57",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/politics/news/2025/11/19/27215450.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-19 03:57",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.malone.news/p/europe-reacts-to-us-global-health",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-19 03:57",
+   "country": "ru",
+   "engine": "ddg"
 }
