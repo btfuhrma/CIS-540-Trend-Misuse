@@ -3440,4 +3440,420 @@
    "timestamp": "2025-11-19 03:57",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/news/world-middle-east-42008809",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-19 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Cloudflare",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-19 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://community.cloudflare.com/t/how-do-i-add-a-cname-record/59",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-19 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/RepClayHiggins",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/Raiders/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-19 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-europe-45812399",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-19 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://news.harvard.edu/gazette/story/2021/02/biden-may-regret-releasing-report-on-khashoggi-murder-says-expert/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-19 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/MrsWiffey",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 14:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://mobile.x.com/NYPDPC/highlights",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 14:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.curryseveryonewins.com/",
+   "malicious": 10,
+   "suspicious": 0,
+   "harmless": 59,
+   "timestamp": "2025-11-19 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/MrsWiffey",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 14:26",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Cloudflare",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-19 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://community.cloudflare.com/t/how-do-i-add-a-cname-record/59",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-19 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Bola_Tinubu",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-19 14:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-europe-42543712",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-19 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/jogodfray",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 14:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-middle-east-14702705",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-19 14:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Gemini_3",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-19 14:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.facebook.com/WWENXT/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-19 14:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/news/world-europe-45812399",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-19 14:34",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.24vids.com/shorts/easy-6-miles-wednesdaymotivation-p-tw-1866930301047542087",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-19 14:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://blessingsblooms.com/wednesday-blessings/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 14:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/gabicolombano6",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-19 14:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://espaebook.net/list-es21-2084967.html",
+   "malicious": 1,
+   "suspicious": 2,
+   "harmless": 66,
+   "timestamp": "2025-11-19 14:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Bola_Tinubu",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-19 14:39",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://positivepsychology.com/benefits-goal-setting/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 76,
+   "timestamp": "2025-11-19 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://twicopy-com.zproxy.org/sarahhyde79/tweet/1283599816337973248",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-19 14:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Cloudflare",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-19 14:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://community.cloudflare.com/t/how-do-i-add-a-cname-record/59",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-19 14:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://open.spotify.com/artist/4KhbHTD4OgwnvIkMQ4LgXU",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-19 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/sharedfiles/filedetails/?l=russian&id=3176644652",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-19 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%A3%D1%81%D0%B0%D0%BC%D0%B0_%D0%B1%D0%B5%D0%BD_%D0%9B%D0%B0%D0%B4%D0%B5%D0%BD",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 64,
+   "timestamp": "2025-11-19 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/NATO/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-19 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://otlichnodom.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-19 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D0%BB%D1%8C,_%D0%BD%D0%B5%D1%82_%D1%80%D1%83%D0%B6%D1%8C%D1%8F",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/discussions/forum/12/864980734950645785/?l=schinese",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-19 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://familytex.ru/katalog/utsenka-50/podushka-ps-32kh32kh9-332",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-11-19 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/discussions/forum/26/2284960483107772743/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-19 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://wccftech.com/half-life-3-hlx-optimization-trailer-prepared/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://kinogo.bike/24414-ziza.html",
+   "malicious": 6,
+   "suspicious": 0,
+   "harmless": 62,
+   "timestamp": "2025-11-19 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://wccftech.com/half-life-3-rumors-intensify-on-27th-anniversary-original-game/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-19 14:48",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://scholar.google.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-19 14:48",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tbank.ru/cards/credit-cards/tinkoff-platinum/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-19 14:48",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://filmmakinesi.sh/",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-11-19 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://apps.apple.com/br/app/instagram/id389801252",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-19 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-19 14:50",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://music.mychords.net/ru/bastiense/242691-bastiense-mne-tak-zhal.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-19 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://lolz.live/threads/9391170/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-19 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/playlists/\u043f\u043e\u0445\u043e\u0436\u0435-\u043d\u0430-\u0440\u0430\u043c\u0448\u0442\u0430\u0439\u043d-\u0438\u0437-\u043e\u0434\u043d\u043e\u043a\u043b\u0430\u0441\u0441\u043d\u0438\u043a\u043e\u0432-366181404411",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-19 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.PlayGround.ru/half_life_3/news/half_life_3_snova_v_tsentre_sluhov_godovschina_serii_podogrela_ozhidaniya_fanatov-1805195",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-19 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://instalker.org/dimas1234568",
+   "malicious": 3,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-19 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/search/\u043c\u0438\u043d\u0443\u0442\u043a\u0430+\u043e\u043c\u0441\u043a\u0438\u0445",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-19 14:53",
+   "country": "ru",
+   "engine": "ddg"
 }
