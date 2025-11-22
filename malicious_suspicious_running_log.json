@@ -5984,4 +5984,540 @@
    "timestamp": "2025-11-21 14:59",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=424063762",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-22 03:08",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.zohranfornyc.com/platform",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-22 03:08",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/RepMTG",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:08",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Ilja_Dragunov",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-22 03:10",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.kamwilliamsrealtygroup.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:10",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-africa-27492354",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-22 03:11",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=5wMhGQcAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:15",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://virtual-youtuber.userlocal.jp/user/D7B4F6B5AAA299F2_49fdd1",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:15",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=ez9FSEAAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:16",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/ItsGoodToBeRight",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:17",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=424063762",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-22 03:18",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.zohranfornyc.com/platform",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-22 03:19",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.wickedmovie.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:19",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/BorisJohnson",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:19",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://thenff.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:20",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://1max.top/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:24",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/biography/Joshua",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-22 03:25",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Ilja_Dragunov",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-22 03:26",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.iljaofficial.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:26",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.m.wikipedia.org/wiki/Ryan's_World",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:26",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/topic/Burj-Khalifa",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-22 03:26",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://instalker.org/TRUE1JD",
+   "malicious": 3,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-22 03:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/5OTF_",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.youtube.com/watch?v=oOKWF3IHu0I",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 74,
+   "timestamp": "2025-11-22 03:33",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "http://www.nathangill.wales/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-22 03:33",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/science/COVID-19",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-22 03:33",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/place/Nigeria/Independent-Nigeria",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-22 03:35",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://imahealth.org/pacvs-research-exposes-immune-dysfunction-after-covid-shots/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:39",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/tags/person/donald_tramp.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-22 03:40",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/tags/geo/ukraina.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-11-22 03:40",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 76,
+   "timestamp": "2025-11-22 03:40",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D1%87%D0%B0%D0%BA,_%D0%9A%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 78,
+   "timestamp": "2025-11-22 03:40",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D1%87%D0%B0%D0%BA,_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D0%B8%D0%B9_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 82,
+   "timestamp": "2025-11-22 03:40",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D0%BE%D0%BB%D1%8C",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-22 03:41",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_34481/b34a30d628a4f1951ce364e6c0729e93d56f365d/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:41",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_34481/56b0aa52ba59c8abcd1300189eef737f72eccd20/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:41",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.monad.xyz/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:41",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-22 03:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-22 03:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://help.steampowered.com/en/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/nudesoftwt?lang=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B1%D0%BB%D0%B5%D0%BC%D0%B0",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-22 03:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.theguardian.com/world/china",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.amurturist.info/tours/kitay/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/search/STRAY%20KIDS%20DO%20IT%20IS%20DIVINE",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ura.news/news/1053038517",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://anzolo.ru/tproduct/570100398002-divan-modulnii-arno-serii",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/StrayKids_DO_IT_OutNow",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/tags/person/donald_tramp.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-22 03:45",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://korrespondent.net/ukraine/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-22 03:45",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/place/Ukraine",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-22 03:45",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-22 03:46",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/news/world/asia/china",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-22 03:46",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.worldbank.org/en/country/china",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-22 03:46",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/politics/2025/11/21/22058971.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:46",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://steambalance.cc/",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:46",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://steamcommunity.com/login",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-22 03:46",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://steamstore-a.akamaihd.net/about/newstore",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:46",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://store.steampowered.com/join/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:46",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u041f\u0440\u043e\u0431\u043b\u0435\u043c\u0430",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-22 03:47",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://slovozavr.ru/problema/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-22 03:47",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://jamix.cc/43135-stray-kids-do-it-mashup.html",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-22 03:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/news/1053038542",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-22 03:50",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.thereadingorder.com/mission-impossible-movies-in-order/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-22 03:50",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://steamcommunity.com/id/dimden/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-22 03:50",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/news/1052987113",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-22 03:51",
+   "country": "ru",
+   "engine": "ddg"
 }
