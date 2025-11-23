@@ -7560,4 +7560,508 @@
    "timestamp": "2025-11-23 04:11",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://www.zohranfornyc.com/platform",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-23 14:18",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-europe-15047823",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-23 14:18",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.journalofdemocracy.org/what-putin-fears-most/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-23 14:18",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.thenmusa.org/biographies/roy-p-benavidez/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:19",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-23 14:19",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-23 14:19",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/LFC",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:19",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.nebraska.gov/LISSearch/search.cgi",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-23 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/LFC",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:23",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-europe-15047823",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-23 14:24",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.journalofdemocracy.org/what-putin-fears-most/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-23 14:24",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://chromewebstore.google.com/detail/forest-stay-focused-be-pr/kjacjjdnoddnpbbcjilcajfhhbdhkpgk",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:24",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=aYDfdl0AAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.levygorvydayan.com/exhibitions/abdoulaye-konate-lune-bleue",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-23 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://gomezwesternwear.com/",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 65,
+   "timestamp": "2025-11-23 14:26",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=Rty_4foAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=EYv2BNQAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://yts.hair/recent",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-23 14:30",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://1movies.bz/movie",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-23 14:30",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://ringmagazine.com/en/news/david-benavidez-promises-domination-of-anthony-yarde-in-saturday-s-main-event",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://blessingsblooms.com/sunday-blessings/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:34",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.casino.org/slots/free/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:35",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.f1lasvegasgp.com/schedule/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:35",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://en.everybodywiki.com/Muhammad_Qasim_ibn_Abdul_Karim",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-23 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/swfc",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-23 14:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://ringmagazine.com/en/news/yarde-ranks-benavidez-above-kovalev-behind-beterbiev-he-was-the-better-man",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://iiasa.ac.at/models-tools-data/oscar",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.monad.xyz/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Charles_III",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-23 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.charlesproxy.com/download/latest-release/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-23 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.charlesproxy.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-23 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://climbingcska.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-23 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_34481/b34a30d628a4f1951ce364e6c0729e93d56f365d/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_34481/56b0aa52ba59c8abcd1300189eef737f72eccd20/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://horoshaya-elka.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-23 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.okolo.ru/shows/yesterday/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 76,
+   "timestamp": "2025-11-23 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B1%D0%B8%D1%80%D1%8C",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://snysibiri.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-23 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ks5060.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://antarion.by/catalog/blum/podemnye-mehanizmy/aventos-hl-top/aventos-hl-top-detali/01706623-aventos-hl-top-derzhatel-dlya-poperechnogo-stabilizatora-cink/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://hdrezka.sh/films/fiction/27271-koroche-2017.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://antarion.by/catalog/blum/podemnye-mehanizmy/aventos-hl-top/aventos-hl-top-detali/08110353-aventos-hl-top-kompensator-dliny-poperechnogo-stabilizatora/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://fazendasib.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-23 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://pogoda.mail.ru/prognoz/ryazan/14dney/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 58,
+   "timestamp": "2025-11-23 14:48",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://monadbridge.com/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://soccer365.ru/clubs/182/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://grok-4-ai.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/politics/news/2025/11/21/27233851.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u0421\u0438\u0431\u0438\u0440\u044c",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:50",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://etosibir.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:50",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://russian-seriali.net/1850-delfin-2-sezon-serial-2024-vse-1-24-serii-podrjad.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-23 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/politics/news/2025/11/22/27242083.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-23 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/ppnaravit",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-23 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://rutracker.org/forum/viewtopic.php?t=6774911",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.taptap.cn/moment/477942997606993555",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-23 14:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/songs/\u0430\u043b\u0451\u043d\u0430-\u0440\u043e\u0441\u0441-\u043f\u0443\u0441\u0442\u044c-\u043b\u044c\u0451\u0442\u0441\u044f-\u043c\u0443\u0437\u044b\u043a\u0430-\u043d\u043e\u0442\u0430\u043c\u0438-\u0434\u043e\u0436\u0434\u044f-131e3e43c9d627e8e90123e77ab99d77",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/news/1053039012",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://music.mychords.net/ru/drugoj-veter/109091-drugoj-veter-i-poyetomu-ulybajsya.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-23 14:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/search/(\u041a\u043e\u0440\u043e\u0447\u0435+\u0433\u043e\u0432\u043e\u0440\u044f)+\u041carshmello",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/news/1053039058",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://animego.me/anime/ne-lyublyu-bol-poetomu-sobirayus-vlozhit-vse-v-zaschitu-1426",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-23 14:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "http://hdrezka.kim/films/standup/83834-agent-813-2025.html",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-23 14:55",
+   "country": "ru",
+   "engine": "ddg"
 }
