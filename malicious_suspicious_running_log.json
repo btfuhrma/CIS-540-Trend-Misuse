@@ -9640,4 +9640,476 @@
    "timestamp": "2025-11-25 03:57",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-25 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-25 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.nfl.com/players/brock-purdy/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.charletonchurchill.com/half-moon-bay-engagement-photographer-brock-purdy-jenna/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.givingtuesday.org/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/DOGE",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/articles/c23vkd57471o",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/Everton/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-25 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.co.uk/sport/football/teams/everton",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-25 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/sport/football/teams/everton",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-25 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.detectionatscale.com/p/how-ai-agents-transform-alert-triage",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:24",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/Everton/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-25 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.co.uk/sport/football/teams/everton",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-25 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/sport/football/teams/everton",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-25 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://amorimcorksolutions.com/en-us/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://mobile.x.com/search?q=%23lucasanddillon&src=hashtag_click",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/TROLLBOY",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/Arsenal/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-25 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://twicopy-com.zproxy.org/bookinstacoach/tweet/1836895546654556588",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-25 14:30",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://sports.yahoo.com/mlb/players/8875/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-25 14:31",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://ai-signals.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.dailymail.co.uk/sport/everton/index.html",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.co.uk/sport/football/teams/everton",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-25 14:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.militarytimes.com/flashpoints/ukraine/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 77,
+   "timestamp": "2025-11-25 14:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://cybershafarat.com/2025/11/24/gross-abuse-of-authority-unlawful-command-influence-violation-of-10-u-s-c-\u00a7-1034/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 14:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/tuesdayvibes",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 14:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://123moviesfree.bz/watch/baddies-usa.3o15gj",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 14:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://lookmovie.fi/tv/watch-baddies-usa.4b82lz",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 14:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://wccftech.com/geforce-now-adds-25-new-games-in-october-including-a-plague-tale-requiem-and-more/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://snugfam.com/100-beautiful-tuesday-morning-images-and-quotes-to-brighten-your-week/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 14:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://ucmjdefense.com/ultimate-guide-to-ucmj-article-91-insubordination-ucmj-defense-lawyers/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://brokensilenze.mom/videos/series/7822465-baddies-usa-2025/",
+   "malicious": 3,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 14:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/thismorning",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:38",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tyla.com/this-morning",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:38",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumgik.com/tag/gmmtv2026",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-25 14:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/songs/keane-somewhere-only-we-know-7fbc16bd3509dcd00643897aefbd5b69",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://gmgn.ai/sol/token/PxUVmFiK_3bV6a2fBT9EzWBbXiphnLMmmAEQ1faYwppCY2Fnhpump",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-25 14:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-25 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ura.news/news/1053032307",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-25 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.amurturist.info/tours/kitay/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.theguardian.com/world/china",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.sk-ii.com/product/face-mask/facial-treatment-mask",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-25 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.monad.xyz/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.mann-ivanov-ferber.ru/catalog/soon/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world/europe",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-25 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://kinogo.bike/24414-ziza.html",
+   "malicious": 6,
+   "suspicious": 0,
+   "harmless": 62,
+   "timestamp": "2025-11-25 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-25 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/politics/2025/11/24/22072969.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-25 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://baltic-house.ru/afisha/?ELEMENT_ID=228",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.tumgik.com/tag/gmmtv2026",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-25 14:48",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://idaoffice.org/ru/posts/30-interesting-facts-about-germany/",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-25 14:50",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://drivemusic.me/k_pop/2552353-xikers-superpower-peak.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://atomicwallet.io/academy/articles/monad-day-1-guide",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/culture/news/2025/11/20/27229658.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://telegra.ph/Pinterest-kak-mozhet-byt-polezen-dlya-hudozhnikov-i-masterov-07-31",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 69,
+   "timestamp": "2025-11-25 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://mychords.net/de/bahtee/61155-bahh-tee-ya-navernoe.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://habr.com/ru/articles/969830/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 14:53",
+   "country": "ru",
+   "engine": "ddg"
 }
