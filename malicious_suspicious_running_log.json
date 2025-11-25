@@ -9056,4 +9056,588 @@
    "timestamp": "2025-11-24 14:55",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://www.nfl.com/players/brock-purdy/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:18",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.canalesfurniture.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:19",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.espn.com/nba/player/_/id/4395725/tyler-herro",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-25 03:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://sports.yahoo.com/nba/players/6175/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-25 03:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.charletonchurchill.com/half-moon-bay-engagement-photographer-brock-purdy-jenna/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:26",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/Everton/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-25 03:26",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.co.uk/sport/football/teams/everton",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-25 03:26",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/TROLLBOY",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.co.uk/sport/football/teams/tottenham-hotspur",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.nfl.com/players/brock-purdy/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.charletonchurchill.com/half-moon-bay-engagement-photographer-brock-purdy-jenna/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.gide.com/en/lawyers/olamide-sekumade/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://mobile.x.com/search?q=%23lucasanddillon&src=hashtag_click",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 03:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=XZkvOTEAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-25 03:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.nfl.com/players/brock-purdy/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Black_Panther_Party",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-25 03:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://sports.yahoo.com/nhl/teams/florida/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-25 03:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.canalesfurniture.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "http://fttb.org/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 58,
+   "timestamp": "2025-11-25 03:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://fclip.cc/gdQh-MVQXkg/logan-paul-it-seems-like-cincinnati-disagrees-rawonnetflix-wweraw",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.kittl.com/create",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:34",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.kittl.com/templates/logos",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:34",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.espn.com/nba/player/_/id/4395725/tyler-herro",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-25 03:34",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.theheckler.com/tag/mondaynightfootball/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 03:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://rustube.cc/video/Ns0t_nszpuqkOF24TxrNRw/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 03:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://wn.com/Penta-",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:39",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/search/Gunther+&+the+Sunshine+Girls+-+Ding+Dong+Song",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-25 03:39",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.canalesfurniture.com/pages/arlington-matlock-1",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:39",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/keeppounding",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-25 03:39",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.canalesfurniture.com/collections/all",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:40",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://bwsnsports.com/dominik-definitely-deserves-this-\ud83d\ude02-rawonnetflix-wweraw/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:40",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://blacksportsonline.com/2025/10/pj-washington-wants-court-to-shutdown-brittany-renners-request-to-increase-5k-child-support-to-35k/",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:40",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://1max.top/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumgik.com/tag/trollboy?",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-25 03:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/imaceleb",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 03:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/arstot",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-25 03:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/sport/football/teams/tottenham-hotspur",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 71,
+   "timestamp": "2025-11-25 03:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.casino.org/news/who-is-mathew-bowyer-the-bookie-who-nearly-took-the-vegas-strip-down-with-him/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 03:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://transwww.jyjxls.com/en/sdjs-343-uncensored-leak",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.easeweather.com/europe/united-kingdom/england/north-east-lincolnshire/grimsby",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://m.avtt4568.com/en/gana-3289",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 03:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bayfilmizle4.com/grimsby-kardesler-the-brothers-grimsby-turkce-dublaj-720p-hd-izle/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 03:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://jasonborn-lordfilm.ru/bratja-iz-grimsbi-2016/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-25 03:47",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 76,
+   "timestamp": "2025-11-25 03:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://habr.com/ru/articles/511632/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.monad.xyz/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%96%D0%B5%D0%BD%D0%B5%D0%B2%D0%B0",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-25 03:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/politics/2025/11/24/22072969.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-25 03:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://habr.com/ru/companies/h3llo_cloud/articles/888424/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.mann-ivanov-ferber.ru/catalog/soon/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.briogeohair.com/products/dont-despair-repair-deep-conditioning-mask",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://kinogo.bike/24414-ziza.html",
+   "malicious": 6,
+   "suspicious": 0,
+   "harmless": 62,
+   "timestamp": "2025-11-25 03:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://baltic-house.ru/afisha/?ELEMENT_ID=228",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.okolo.ru/shows/yesterday/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/tags/person/donald_tramp.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-25 03:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-25 03:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.amurturist.info/tours/kitay/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.theguardian.com/world/china",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ura.news/news/1053032307",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-25 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u041d\u0438\u0434\u0435\u0440\u043b\u0430\u043d\u0434\u044b",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 76,
+   "timestamp": "2025-11-25 03:51",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://facebook.rentcafe.com/residentservices/apartmentsforrent/userlogin.aspx",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u0416\u0435\u043d\u0435\u0432\u0430",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-25 03:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://standup813.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://dzen.ru/news",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.webmath.ru/poleznoe/fizika_118_primery_prodolnyh_i_poperechnyh_voln.php",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/news/1053039720",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-25 03:57",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://smotrim-24.ru/pust-govoryat/9782-pust-govorjat-24112025.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:57",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/songs/\u0438\u043d\u0444\u0438\u043d\u0438\u0442\u0438-\u043f\u0440\u0438\u044f\u0442\u043d\u043e\u0433\u043e-\u0430\u043f\u043f\u0435\u0442\u0438\u0442\u0430-6728a7546450a4f05b38a7b96184accc",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-25 03:57",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/search/\u0422\u0430\u0442\u0443+++\u041f\u043e\u043a\u0430\u0436\u0438+\u043c\u043d\u0435+\u043b\u044e\u0431\u043e\u0432\u044c(2001)",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-25 03:57",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://sites.google.com/view/lab-bioinge2020-upiig/pr\u00e1cticas/practica-6-ca\u00edda-de-presi\u00f3n-en-tuber\u00edas-y-accesorios",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-25 03:57",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://monadvision.com/ecosystem",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-25 03:57",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/news/1053039581",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-25 03:57",
+   "country": "ru",
+   "engine": "ddg"
 }
