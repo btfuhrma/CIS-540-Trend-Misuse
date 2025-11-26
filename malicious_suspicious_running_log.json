@@ -10624,4 +10624,532 @@
    "timestamp": "2025-11-26 03:57",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-26 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-26 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/ChelseaFC",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.detectionatscale.com/p/how-ai-agents-transform-alert-triage",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/PeteHegseth",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.netflix.com/title/70011206",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-11-26 14:23",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://disabilityvisibilityproject.com/2019/02/26/creating-a-disabled-family-the-life-of-carrie-ann-lucas/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:23",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.ferrantextiles.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:24",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.beyondtheboxscore.com/2019/1/5/18169216/gray-sonny-yankees-new-york-changes-slider-corbin-patrick-effectiveness-mlb",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:26",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://moviemusicuk.us/2000/06/09/gone-in-60-seconds-trevor-rabin/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:26",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/ChelseaFC",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://twicopy-com.zproxy.org/bookinstacoach/tweet/1836895546654556588",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-26 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://chelsea.news/2025/11/estevao-premier-league-starts-maresca/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/Everton/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-26 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.co.uk/sport/football/teams/everton",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-26 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/sport/football/teams/everton",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-26 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.theguardian.com/football/everton",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-26 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://amorimcorksolutions.com/en-us/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/Nigel_Farage",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.ferrantextiles.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.halocollar.com/main-shop/halo-collar-4/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-26 14:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/jasonhbbn",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/sport/football/teams/chelsea",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-26 14:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.m.wikipedia.org/wiki/Luka_Don\u010di\u0107",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 63,
+   "timestamp": "2025-11-26 14:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.ferrantextiles.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://intezer.com/ai-soc-the-future-of-alert-triage/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.plotexplained.com/movie/gone-in-sixty-seconds",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://speed-film.ru/ugnat-za-60-sekund-2000/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-26 14:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/wednesdaymotivation",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-26 14:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://uaestories.com/the-most-beautiful-destinations-in-turkey/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://ucmjdefense.com/ultimate-guide-to-ucmj-article-131-perjury/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://apiiro.com/glossary/ai-alert-investigation/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-26 14:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://squareblogs.net/bayviewcbd82/tag:WednesdayMotivation",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/search/OST+Gone+In+60+Seconds",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-26 14:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.espn.com/soccer/team/_/id/368/everton",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-26 14:39",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.thecrazytourist.com/15-best-things-marseille-france/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-26 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.marseilletourisme.fr/en/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://apps.apple.com/ca/app/facebook/id284882215",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-26 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://dictionary.cambridge.org/dictionary/english/labour",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-26 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/topic/Labour-Party-political-party",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-26 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.chicago.gov/laborstandards",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 82,
+   "timestamp": "2025-11-26 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/tags/person/donald_tramp.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-26 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://vk.com/ghest_po_yaroslavski",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 63,
+   "timestamp": "2025-11-26 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://x.com/Bullish",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.youtube.com/bloomberg",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-26 14:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://chtoyaznayuopape.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-26 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%97%D0%BD%D0%B0%D1%82%D1%8C",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-11-26 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.mann-ivanov-ferber.ru/catalog/soon/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://blog.x.com/en_us/topics/company/2020/suspension",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://blog.x.com/en_us/topics/company/2020/an-update-on-our-security-incident",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/discussions/forum/26/1458455461483128991/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-26 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://start.practicum.yandex/start-in-data/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-26 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://start.practicum.yandex/start-in-programming/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-26 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ura.news/news/1053032307",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-26 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world/europe",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-26 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/tags/person/donald_tramp.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-26 14:48",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://help.x.com/ru/managing-your-account/how-to-reactivate-x-account",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://help.x.com/ru/using-x/create-x-account",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://twitter.com/Signup",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-26 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/politics/2025/11/26/22084939.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://thegirl.ru/articles/test-kakuyu-dushevnuyu-ranu-ty-skryvaesh-dazhe-ot-sebya/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-26 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.101soundboards.com/boards/197018-aaaaa-soundboard",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://news.anidub.com/rubriki/zagadki-yaponii-rubriki/interesnoe/2002-sto-faktov-o-yaponii.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://mychords.net/kotmos/126674-kotmos-prosti.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-26 14:54",
+   "country": "ru",
+   "engine": "ddg"
 }
