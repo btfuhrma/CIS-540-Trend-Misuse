@@ -11152,4 +11152,532 @@
    "timestamp": "2025-11-26 14:54",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-27 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-27 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Stranger_Things_season_5",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-27 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://nationalguard.com/guard-faqs",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-27 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.hollywhitaker.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.fcc.gov/robocall-facilitators-must-cease-and-desist",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-27 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/Arsenal/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-27 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.detectionatscale.com/p/how-ai-agents-transform-alert-triage",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://sites.google.com/view/popefrancishomilies/holy-thursday",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:23",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://bioworksinc.com/products/cease/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/InfoSecVPN",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://store.insta360.com/campaign/black-friday-deals",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-27 14:26",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-27 14:26",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-27 14:26",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Stranger_Things_season_5",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-27 14:26",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.shermansmiles.com/family-dentistry.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.levygorvydayan.com/exhibitions/abdoulaye-konate-lune-bleue",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-27 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://news.engin.umich.edu/2023/04/self-driving-water-systems-a-qa-with-branko-kerkez/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-27 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://nationalguard.com/guard-faqs",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-27 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=EpidFw8AAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-27 14:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.hillandwood.com/obituaries/Mara-Kerkez-Vojvodic?obId=12135398",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Stranger_Things_season_5",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-27 14:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://nationalguard.com/guard-faqs",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-27 14:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://nationalguard.com/eligibility",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-27 14:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "http://www.robin-web.co.uk/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-27 14:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/sport/football/teams/arsenal",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 71,
+   "timestamp": "2025-11-27 14:34",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.espn.com/soccer/team/_/id/132/bayern-munich",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-11-27 14:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/dareyoutodeath",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.24vids.com/shorts/dareyoutodeath-jadekamin-p-tw-1861440800481255891",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-27 14:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://laby.net/@InfoSecVPN",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://infosecvpn.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-27 14:39",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://dictionary.cambridge.org/dictionary/english/labour",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-27 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/topic/Labour-Party-political-party",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-27 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://labour.org.uk/members/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-27 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.casino.org/slots/free/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/itv7inittowinit",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-27 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://itv.uz/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-27 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Martinelli",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-11-27 14:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/biography/Karl-Lagerfeld",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-27 14:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/littlechillis",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-27 14:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/songs/carlasdreams-\u0442\u0440\u0435\u0443\u0433\u043e\u043b\u044c\u043d\u0438\u043a\u0438-cover-arsbay-67c7d741ef047a09de63e2bdbbdc8dfd",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-27 14:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.youtube.com/c/radiodolin",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-27 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D1%87%D0%B0%D0%BA,_%D0%9A%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 78,
+   "timestamp": "2025-11-27 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-11-27 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://gac.ru/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.vpn-naoborot.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-27 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%96%D0%B0%D0%BB%D1%8C,_%D0%BD%D0%B5%D1%82_%D1%80%D1%83%D0%B6%D1%8C%D1%8F",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/tags/person/donald_tramp.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-27 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,_%D1%8F_%D0%B2%D0%B0%D1%88%D0%B0_%D1%82%D1%91%D1%82%D1%8F!",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 64,
+   "timestamp": "2025-11-27 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/politics/2025/11/26/22085521.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-27 14:52",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.vpn-naoborot.com/instructions/windows",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-27 14:52",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://bullishdegen.org/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-11-27 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://t.me/s/dolinaofficial",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-27 14:53",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/tags/geo/soedinennye_shtaty_ameriki.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 72,
+   "timestamp": "2025-11-27 14:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://base-club.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-27 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/culture/news/2025/11/27/27280687.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-27 14:58",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://mychords.net/uk/propaganda/68206-propaganda-zhal.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:58",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://freecoins24.io/airdrops/bullish-airdrop-farm-moola/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:58",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://solncesvet.ru/tv/353780/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-27 14:58",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/articles/1053040390",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-27 14:58",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://mychords.net/ru/dina-mar/183469-dina-mar-naoborot.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-27 14:58",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/songs/alien24-\u043a\u0430\u043a-\u0436\u0430\u043b\u044c-\u0447\u0442\u043e-\u043d\u0430\u043c-b6dae8b39c492aff15367817a77c6a63",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-27 14:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://coinunited.io/learn/en/promotions/earn-bullish-degen-bullish-airdrops-with-every-trade-on-coinunited-io",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-27 14:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/social/2025/11/27/22093717.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-27 14:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/politics/news/2025/11/26/27275689.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-27 14:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.coingabbar.com/en/crypto-blogs-details/bullish-farm-a-new-era-of-gaming-and-crypto-rewards",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-27 14:59",
+   "country": "ru",
+   "engine": "ddg"
 }
