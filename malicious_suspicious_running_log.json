@@ -11680,4 +11680,436 @@
    "timestamp": "2025-11-27 14:59",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-28 03:15",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-28 03:15",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/Chiefs",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:15",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.nfl.com/teams/cincinnati-bengals/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-28 03:15",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Post_Malone",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-28 03:16",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/postmalone/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-28 03:16",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.nfl.com/teams/detroit-lions/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-28 03:17",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.shmfh.com/m/obituaries/John-Tinsley-2/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-28 03:23",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-28 03:23",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Stranger_Things_season_5",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-28 03:23",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/Chiefs",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:23",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.shermansmiles.com/family-dentistry.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/Arsenal/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-28 03:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/LFC",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-28 03:26",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.m.wikipedia.org/wiki/Kansas_City_Chiefs",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 62,
+   "timestamp": "2025-11-28 03:29",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.nfl.com/teams/cincinnati-bengals/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-28 03:29",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Post_Malone",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-28 03:29",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.nfl.com/teams/detroit-lions/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-28 03:30",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/biography/Henry-V-king-of-England",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-28 03:31",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.songmeaning.io/lyric-translation/worthy",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-28 03:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://jamix.cc/38409-jerry-heil-dodaj-guchnosti-12-points.html",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://factprofiles.com/jason-garrett/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://watchwrestling.ae/aew-collision-11-27-25-27th-november-2025/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-28 03:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.fftoday.com/stats/players/18134/Isaiah_Likely",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://dictionary.cambridge.org/dictionary/english/labour",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-28 03:36",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/topic/Labour-Party-political-party",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-28 03:36",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/imaceleb",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-28 03:37",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.casino.org/slots/free/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:38",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/sport/football/teams/liverpool",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-28 03:38",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.canlitribun775.top/rangers-sporting-braga-canli-izle/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-28 03:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-28 03:41",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-28 03:41",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/nudesoftwt?lang=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-28 03:41",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.youtube.com/c/radiodolin",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-28 03:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/social/2025/11/27/22093717.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-28 03:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://home.treasury.gov/news/press-releases/jy1925",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-28 03:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%B1%D1%87%D0%B0%D0%BA,_%D0%9A%D1%81%D0%B5%D0%BD%D0%B8%D1%8F_%D0%90%D0%BD%D0%B0%D1%82%D0%BE%D0%BB%D1%8C%D0%B5%D0%B2%D0%BD%D0%B0",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 78,
+   "timestamp": "2025-11-28 03:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D1%8B%D1%80%D0%B3%D1%8B%D0%B7%D1%81%D1%82%D0%B0%D0%BD",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-11-28 03:42",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BB%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 77,
+   "timestamp": "2025-11-28 03:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_207545/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_283918/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 78,
+   "timestamp": "2025-11-28 03:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_323470/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_181602/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-11-28 03:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_195783/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-28 03:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/politics/2025/11/26/22085521.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-28 03:43",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5,_%D1%8F_%D0%B2%D0%B0%D1%88%D0%B0_%D1%82%D1%91%D1%82%D1%8F!",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 64,
+   "timestamp": "2025-11-28 03:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-28 03:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.theguardian.com/world/china",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-28 03:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.wto.org/english/thewto_e/countries_e/china_e.htm",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 83,
+   "timestamp": "2025-11-28 03:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://too.kg/",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-28 03:47",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://currencycalc.io/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-28 03:47",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://theporndude.com/2356/hqporner",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 76,
+   "timestamp": "2025-11-28 03:48",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://elfarodemexico.com.mx/literatura-contemporanea-mexicana/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-28 03:51",
+   "country": "ru",
+   "engine": "ddg"
 }
