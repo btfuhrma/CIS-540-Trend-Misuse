@@ -14136,4 +14136,468 @@
    "timestamp": "2025-11-30 04:05",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-30 14:18",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-30 14:18",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-latin-america-36319877",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-30 14:19",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://preppykitchen.com/buckeyes/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-30 14:19",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/BuckeyesCrootin",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:19",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://store.insta360.com/campaign/black-friday-deals",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.stocktonusd.net/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://christmasinthepark.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-30 14:20",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://amorimcorksolutions.com/en-us/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 14:23",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Jean-Philippe_Mateta",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-30 14:24",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.lichascantina.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:24",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.whartoncenter.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:24",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-30 14:24",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.hibernianfc.co.uk/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://gomezwesternwear.com/",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 65,
+   "timestamp": "2025-11-30 14:25",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.williamsfuneraldirectors.net/obituaries/billy-bonds",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:30",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=UJP_JHEAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 14:30",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://watch-wrestling.eu/wwe-survivor-series-wargames-11-29-25-november-29-2025/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:30",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://christmasinthepark.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-30 14:32",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://mp3ru.cc/tracks/sunday+vibes+70/",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://1movies.bz/watch/movie-the-christmas-ring2-7oq9qk",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://wishesmsg4u.com/good-morning-happy-sunday-wishes/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 64,
+   "timestamp": "2025-11-30 14:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Jean-Philippe_Mateta",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-30 14:37",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.lichascantina.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:37",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-11-30 14:37",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.hibernianfc.co.uk/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:38",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://celebrity-birthdays.com/people/nick-walsh",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/mail/zhenya-moiseev-88/video/_myvideo/748.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 14:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.hibernianfc.co.uk/news/2024/august/21/taylor--i-m-enjoying-every-second-at-hibs/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://v2-bonzzo.com/",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-11-30 14:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://famedprofiles.com/nick-paton-walsh/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.youtube.com/c/radiodolin",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-30 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://mobile.x.com/search?q=%23JetDoll&src=hashtag_click",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:44",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/StrayKidsAtMAMA2025",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.trade.gov.tr/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%95%D1%80%D0%BC%D0%B0%D0%BA_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 63,
+   "timestamp": "2025-11-30 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4_%D0%9A%D1%80%D1%83%D1%82%D0%B0%D0%BC%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-30 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://habr.com/ru/companies/h3llo_cloud/articles/888424/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://xn--80atggaehcbgl4ic.xn--p1ai/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://datahaven.xyz/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-30 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-30 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://christmasinthepark.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-30 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://gac.ru/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://content.govdelivery.com/accounts/OLCC/bulletins/39133ed",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/sharedfiles/filedetails/?id=1618361646",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-30 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://smoritivi.ru/4714-jelbrus-1-sezon-2025.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://kinogo-net.la/17158-zvezdy-v-dzhungljah-2-sezon-2025.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://kinotac.org/filmy-2025/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://apkpure.com/ru/whatsapp-android/com.whatsapp/download",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-11-30 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://m.gazeta.ru/tags/person/donald_tramp.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 14:49",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://russian-seriali.net/2510-dar-shramy-ljubvi-serial-2025-vse-1-8-serii-podrjad.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:51",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.nn.ru/text/world/2025/11/29/76147543/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://pogoda.mail.ru/prognoz/lugansk/extended/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/news/1053041947",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-30 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://topde.net/7572-rams-torba-trb-kruto.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://kinogo-films.biz/79842-jekstrasensy-bitva-silnejshih.html",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://mp3bunny.cc/music/stray-kids-mama.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 14:52",
+   "country": "ru",
+   "engine": "ddg"
 }
