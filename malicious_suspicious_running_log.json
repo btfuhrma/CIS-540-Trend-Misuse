@@ -13680,4 +13680,460 @@
    "timestamp": "2025-11-29 14:48",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://www.youtube.com/watch?v=16YnOUnbE6s",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-30 03:31",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-30 03:31",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-latin-america-36319877",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-11-30 03:33",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://ravenousmonster.com/featured-article/rip-svengoolie-baron-berwyn/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 03:36",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/releafcannabis",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 03:38",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/jasonhbbn",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 03:38",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/jogodfray",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 03:38",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.co.uk/programmes/articles/1X4ySd2Dzmg00cg4ZDc8DmC/voting-info",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 64,
+   "timestamp": "2025-11-30 03:38",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://goldenaceatx.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 03:39",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.youtube.com/watch?v=16YnOUnbE6s",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-11-30 03:39",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://open.spotify.com/track/3EYOJ48Et32uATr9ZmLnAo",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-30 03:39",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/julianunesmusic/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-30 03:39",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-30 03:40",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-30 03:40",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/NikkiHaley",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 03:43",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.24vids.com/video/roll-tide-from-disneylandrolltide-rosebowl-p-tw-1741290066692260093",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 03:48",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://z-lib.id/book/dirty-dom",
+   "malicious": 8,
+   "suspicious": 1,
+   "harmless": 62,
+   "timestamp": "2025-11-30 03:49",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://holyunblocker.org/8dc4a5bd966f4fd0ae92650e76a82983/_rhsIG8vn:/z9.9G9RPR8af.2aL/RVb-M/bQFx5J/hBYdwTHNSHGP/",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-30 03:49",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://tr.z-library.gy/book/11327615/327381/dirty-dom.html?dsource=recommend",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-30 03:50",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/thursdaythoughts",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-30 03:50",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/Erikinho_COYS",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 03:50",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumgik.com/tag/edball",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-30 03:50",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://aguea.net/h/QatarTheSupercard",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-30 03:50",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://instalker.org/Charliieeexoxo",
+   "malicious": 3,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-11-30 03:50",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/place/Leeds-England",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-30 03:51",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://watch-wrestling.eu/wwe-survivor-series-wargames-11-29-25-november-29-2025/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 03:55",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.trade.gov.tr/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%95%D1%80%D0%BC%D0%B0%D0%BA_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 63,
+   "timestamp": "2025-11-30 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/politics/2025/11/28/22099333.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-11-30 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4_%D0%9A%D1%80%D1%83%D1%82%D0%B0%D0%BC%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-11-30 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.youtube.com/c/radiodolin",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-11-30 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://habr.com/ru/companies/h3llo_cloud/articles/888424/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 03:57",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-11-30 03:57",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.theguardian.com/world/china",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-30 03:57",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://datahaven.xyz/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-11-30 03:57",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://xn--80atggaehcbgl4ic.xn--p1ai/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 03:57",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://habr.com/ru/articles/872198/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 03:57",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-30 03:57",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Thanksgiving_(United_States)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-11-30 03:57",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://helpdesk.foundation/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-30 03:58",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://pasteria.bar/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-11-30 03:58",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 82,
+   "timestamp": "2025-11-30 03:58",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://mobile.x.com/search?q=%23JetDoll&src=hashtag_click",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 03:59",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/StrayKidsAtMAMA2025",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 04:00",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://russian-seriali.net/2388-berlinskaja-zhara-serial-2025-vse-1-8-serii-podrjad.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://myshows.me/movies/catalog/y-2025/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://m.gazeta.ru/tags/person/donald_tramp.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-11-30 04:01",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://lordfilm-2025.me/377-mir-jurskogo-perioda-vozrozhdenie.html",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 04:04",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://zona-kino.org/novinki-kino-2025/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-11-30 04:04",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://kinogo-net.la/17158-zvezdy-v-dzhungljah-2-sezon-2025.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 04:04",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://afisha.sevastopol.su/larisa-dolina-cancelled/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 04:04",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.musicmundial.com/stray-kids-llora-al-recibir-el-premio-a-album-del-ano-en-los-premios-mama-2025/",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-11-30 04:05",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://kinotac.org/filmy-2025/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 04:05",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/news/1053041896",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-30 04:05",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://smoritivi.ru/4714-jelbrus-1-sezon-2025.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-11-30 04:05",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/news/1053041921",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-11-30 04:05",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://kinogo-films.biz/85147-drakula.html",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-11-30 04:05",
+   "country": "ru",
+   "engine": "ddg"
 }
