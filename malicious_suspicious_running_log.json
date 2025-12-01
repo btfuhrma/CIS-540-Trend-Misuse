@@ -15048,4 +15048,476 @@
    "timestamp": "2025-12-01 04:30",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://tct.net/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-01 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-latin-america-36319877",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-01 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/steelers/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-12-01 14:23",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/GovTimWalz",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/Tim_Walz",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://cadem.org/minnesota-governor-tim-walz-to-speak-at-2025-cadem-state-convention-in-anaheim/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:27",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://tct.net/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-01 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/ChelseaFC",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:27",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=wlLCb08AAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-12-01 14:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://christmasinthepark.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-01 14:28",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/WestHam",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.co.uk/sport/football/teams/west-ham-united",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 77,
+   "timestamp": "2025-12-01 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.williamsfuneraldirectors.net/obituaries/billy-bonds",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://kimi-ai.chat/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-12-01 14:30",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=UJP_JHEAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-01 14:30",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://surfaceprep.com/about/legacy-brands/norris-wiener-inc/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/officialchucknorrispage/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-12-01 14:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://prayerspond.com/75-heartfelt-new-month-wishes-for-my-love/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/ForTT_Telegram_sam11adel",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:33",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://tct-trading.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:33",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.facebook.com/CarolinaPanthers/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-12-01 14:34",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.facebook.com/steelers/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-12-01 14:34",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.24vids.com/video/anybody-anywhere-anytimebud-light-raisehail-p-tw-1880859341550485688",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:39",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://wishingyoublessings.com/monday-morning-blessings/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:39",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://roopvibes.com/monday-good-morning-images-wishes-quotes-messages/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:39",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://tct.net/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-01 14:40",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.co.uk/programmes/b0bjf8p5/broadcasts/upcoming",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-12-01 14:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tbank.ru/business/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://telegramgroups.co/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/sport/football/teams/west-ham-united",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-01 14:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://kimi-ai.chat/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-12-01 14:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://kimi-ai.chat/use-cases/social-media-manager/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://sites.google.com/view/kimiapp",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://telegram.me/dalle_mini_bot",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-12-01 14:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://gmgn.ai/bsc/token/0xcbc9800360d606a5fe12e6a751b4c875d8174444",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/news/world-latin-america-36319877",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-01 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.youtube.com/c/radiodolin",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-01 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4_%D0%9A%D1%80%D1%83%D1%82%D0%B0%D0%BC%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-12-01 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.okolo.ru/shows/yesterday/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-01 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.trade.gov.tr/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-12-01 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://christmasinthepark.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-01 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%95%D1%80%D0%BC%D0%B0%D0%BA_%D0%A2%D0%B8%D0%BC%D0%BE%D1%84%D0%B5%D0%B5%D0%B2%D0%B8%D1%87",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 63,
+   "timestamp": "2025-12-01 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://datahaven.xyz/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B3",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 82,
+   "timestamp": "2025-12-01 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://habr.com/ru/articles/923668/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://sefon.pro/mp3/2598612-jony-pomnyu/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/culture/2025/09/10/21679214.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-01 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/news/1053041972",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-01 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/culture/2025/11/30/22108015.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-01 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u041a\u0438\u0442\u0430\u0439",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/search/Max+Oazo+ft.+Moonessa",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-01 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://orion.xyz/lumia/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-12-01 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://mychords.net/ru/gradent/158008-gradent-bog.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-01 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/politics/news/2025/12/01/27306277.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-01 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://animego.me/anime/luchshiy-v-mire-assasin-pererodilsya-v-drugom-mire-aristokratom-1901",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-12-01 14:55",
+   "country": "ru",
+   "engine": "ddg"
 }
