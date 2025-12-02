@@ -15520,4 +15520,532 @@
    "timestamp": "2025-12-01 14:55",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://www.giantsnacks.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/newenglandpatriots/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-12-02 03:23",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.instagram.com/natbynature/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 72,
+   "timestamp": "2025-12-02 03:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://ksuowls.com/news/2024/8/1/football-owl-alum-bron-breakker-competes-for-wwes-intercontinental-title-saturday",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:29",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=SfaB1CMAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 03:30",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://christmasinthepark.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 03:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/ChelseaFC",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=wlLCb08AAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-12-02 03:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://tct.net/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 03:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://kimi-ai.chat/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 03:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.giantsnacks.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:33",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.williamsfuneraldirectors.net/obituaries/billy-bonds",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:33",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://redbullrecords.com/",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-12-02 03:34",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://prayerspond.com/75-heartfelt-new-month-wishes-for-my-love/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 03:34",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.theguardian.com/politics/keir-starmer",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-12-02 03:34",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/Fivepillarstoken",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:35",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.yardbarker.com/nfl/teams/new_york_giants/56",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.espn.com/nfl/team/stats/_/name/ne/new-england-patriots",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 83,
+   "timestamp": "2025-12-02 03:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.facebook.com/newenglandpatriots/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-12-02 03:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.espn.com/mma/fighter/_/id/2335679/nate-diaz",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 76,
+   "timestamp": "2025-12-02 03:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.confluent.io/what-is-apache-kafka/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-02 03:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.instagram.com/natbynature/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 72,
+   "timestamp": "2025-12-02 03:38",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.fftoday.com/stats/players/19010/Theo_Johnson",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-02 03:42",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://watchwrestling24.net/wwe-raw-12-1-25-december-1-2025/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 03:42",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.fivepillarstoken.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://tct.net/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 03:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://kimi-ai.chat/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 03:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://mygovid.gov.az/auth",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-02 03:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://gmgn.ai/sol/token/5CcZVo4rgfGQ3HQAJwuCRejrXDCoDBy48CJLA8FKpump",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 03:48",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.itbitget.com/price/five-pillars-token/what-is",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 03:49",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/Patriots",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 03:49",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://christmasinthepark.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 03:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bitcoin.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-02 03:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.cnbc.com/quotes/BTC.CM=",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-12-02 03:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://t.me/ipotekabankofficial",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 03:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BB%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 77,
+   "timestamp": "2025-12-02 03:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_207545/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_1870/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-12-02 03:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.instagram.com/maxmusic/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-12-02 03:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.youtube.com/c/radiodolin",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-02 03:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-latin-america-36319877",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-02 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.unrefugees.org/news/venezuela-crisis-explained/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 75,
+   "timestamp": "2025-12-02 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-12-02 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%98%D0%BB%D1%8C%D1%8F",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-12-02 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/culture/2025/11/30/22108015.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.trade.gov.tr/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%B9_%D0%BF%D0%BE%D0%B4_%D0%9A%D1%80%D1%83%D1%82%D0%B0%D0%BC%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-12-02 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%92%D0%B7%D0%B0%D0%B8%D0%BC%D0%BD%D0%BE_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%B0",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-12-02 03:52",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://developers.facebook.com/docs/whatsapp/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 03:52",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.coolclever.ru/catalog/myasnov/tovary-so-skidkoi-esh-skoree",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-02 03:54",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.binance.com/en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 03:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u0412\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0435_\u0441\u0438\u043b\u044b_\u0420\u043e\u0441\u0441\u0438\u0439\u0441\u043a\u043e\u0439_\u0424\u0435\u0434\u0435\u0440\u0430\u0446\u0438\u0438",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 77,
+   "timestamp": "2025-12-02 03:54",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ura.news/story/919",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-12-02 03:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://idaoffice.org/ru/posts/30-faktov-o-polshe/",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-12-02 03:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u041a\u0438\u0442\u0430\u0439",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u0418\u043b\u044c\u044f",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-12-02 03:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/culture/2025/11/30/22108015.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 03:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/songs/\u043f\u0435\u0441\u043d\u044f-almary-\u0434\u043e-\u0441\u043a\u043e\u0440\u044b\u0445-\u0432\u0441\u0442\u0440\u0435\u0447-\u043d\u0430-\u043c\u044f\u0442\u044b\u0445-\u043f\u0440\u043e\u0441\u0442\u044b\u043d\u044f\u0445-\u0446\u0432\u0435\u0442\u0430-\u043c\u0430\u043a-muzboss-net-2d106f3762f9eefb8806f9b125d714dc",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 03:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://11klasov.net/15957-geometrija-7-9-klass-uchebnik-atanasjan-ls-butuzov-vf-kadomcev-sb-i-dr.html",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-12-02 03:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://mychords.net/ru/almary/220199-almary-do-skorykh-vstrech-polnaya-versiya.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 03:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://whatsapp.ru.download.it/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://jamix.cc/gravity-hazbin-hotel.html",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-12-02 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://slovozavr.ru/vzaimno/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.turkishmate.com/ru/blog/top-10-turkish-cities-you-should-visit-in-turkey-and-why",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-12-02 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://news.bitcoin.com/google-throws-bitcoin-a-lifeline/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 04:00",
+   "country": "ru",
+   "engine": "ddg"
 }
