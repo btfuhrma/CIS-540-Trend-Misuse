@@ -16048,4 +16048,660 @@
    "timestamp": "2025-12-02 04:00",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://www.givingtuesday.org/logos/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-12-02 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://christmasinthepark.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-latin-america-36319877",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-02 14:23",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://kalani.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 14:23",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/PeteHegseth",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:24",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/GovTimWalz",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/Tim_Walz",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://cadem.org/minnesota-governor-tim-walz-to-speak-at-2025-cadem-state-convention-in-anaheim/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.espn.com/nba/player/_/id/3155526/dillon-brooks",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-02 14:26",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://goducks.com/sports/mens-basketball/roster/dillon-brooks/5986",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-02 14:26",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://sites.google.com/rusdlearns.net/employee-benefits/dental-benefits",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:28",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.thedreamshake.com/2025/6/23/24454297/houstons-rockets-letter-dillon-brooks-nba-trade-kevin-durant-jalen-green-suns-amen-thompson-sengun",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:29",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://christmasinthepark.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://tct.net/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.givingtuesday.org/logos/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-12-02 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/DavidLammy",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:30",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/Arsenal/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-12-02 14:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.tiktok.com/@arsenal?lang=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-12-02 14:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/hashtag/Fivepillarstoken",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-latin-america-36319877",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-02 14:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.theguardian.com/politics/keir-starmer",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-12-02 14:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=wlLCb08AAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-12-02 14:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://elections.maryland.gov/voter_registration/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 76,
+   "timestamp": "2025-12-02 14:33",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://kimi-ai.chat/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:33",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://aianderoshan.ir/?s=87779558021980",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:35",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.co.uk/bitesize/articles/zdjjf4j",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 80,
+   "timestamp": "2025-12-02 14:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://kalani.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 14:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://yandex.com/games/category/puzzles",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 72,
+   "timestamp": "2025-12-02 14:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.espn.com/nba/player/_/id/3155526/dillon-brooks",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-02 14:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://watchwrestling.ae/wwe-raw-12-1-25-1st-december-2025/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-02 14:41",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.cobrief.app/resources/legal-glossary/allocation-overview-definition-and-example/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:41",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://kinogo-net.la/15964-jekstrasensy-bitva-silnejshih-2-sezon-2025.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-02 14:41",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://tct.net/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 14:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/thismorning",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 14:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tyla.com/this-morning",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.itbitget.com/price/five-pillars-token/what-is",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:43",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.fivepillarstoken.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:43",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/news/world-south-asia-12650940",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 77,
+   "timestamp": "2025-12-02 14:43",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://watchwrestling.ae/wwe-raw-12-1-25-1st-december-2025/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-02 14:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://printedwaste.com/gfn",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-02 14:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://kimi-ai.chat/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/thicktrunktuesday",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:47",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://snugfam.com/100-best-welcome-to-december-quotes-to-warm-your-heart-this-holiday-season/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-02 14:48",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/happy+1st+december",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:48",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://christmasinthepark.com/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-latin-america-36319877",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-02 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bitcoin.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-02 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.cnbc.com/quotes/BTC.CB=",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-02 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-12-02 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://developers.facebook.com/docs/whatsapp/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://web.telegram.org/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-12-02 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://t.me/ipotekabankofficial",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.youtube.com/c/radiodolin",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-02 14:49",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%92%D0%BE%D0%BE%D1%80%D1%83%D0%B6%D1%91%D0%BD%D0%BD%D1%8B%D0%B5_%D1%81%D0%B8%D0%BB%D1%8B_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%BE%D0%B9_%D0%A4%D0%B5%D0%B4%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D0%B8",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 77,
+   "timestamp": "2025-12-02 14:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_207545/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_283918/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 78,
+   "timestamp": "2025-12-02 14:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.consultant.ru/document/cons_doc_LAW_1870/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-12-02 14:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://xn-----6kcckdhi4a4acvnipx7p.xn--p1ai/",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%92%D0%B7%D0%B0%D0%B8%D0%BC%D0%BD%D0%BE_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%8B%D0%B5_%D1%87%D0%B8%D1%81%D0%BB%D0%B0",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-12-02 14:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/tags/geo/ukraina.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-12-02 14:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%92%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5_%D1%83%D0%BF%D0%BE%D1%80%D1%8F%D0%B4%D0%BE%D1%87%D0%B5%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%BE",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-12-02 14:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%A7%D1%91%D1%80%D0%BD%D0%BE%D0%B5_%D0%BC%D0%BE%D1%80%D0%B5",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 78,
+   "timestamp": "2025-12-02 14:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "http://193.7.160.230/web/esimo/black/wwf/wwf_black.php",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://slushay-novgorod.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-12-02 14:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://pages.cs.wisc.edu/~boris/maha/fish/new_fish.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:53",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://dzen.ru/yandex",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/biography/Nicolas-Maduro",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-02 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://news.bitcoin.com/bitcoin-price-watch-stuck-in-the-basement-is-a-bounce-or-breakdown-next/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://apkpure.net/ru/telegram/org.telegram.messenger",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://tlgrm.in/",
+   "malicious": 7,
+   "suspicious": 0,
+   "harmless": 61,
+   "timestamp": "2025-12-02 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u0412\u0438\u0434_\u0432\u043e\u043e\u0440\u0443\u0436\u0451\u043d\u043d\u044b\u0445_\u0441\u0438\u043b",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/culture/2025/11/30/22108015.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://dzen.ru/id/5ec8ff8a4de5fb7517cb41c8",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-12-02 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://korrespondent.net/ukraine/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://zaycev.net/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://\u043c\u043e\u0434\u043d\u044b\u0435-\u0441\u043b\u043e\u0432\u0430.\u0440\u0444/12654-pasiba-chto-znachit.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://bakhtiyarov.ru/story/kakie-gormony-vyrabatyvayutsya-pri-vlyublennosti-i-sekse/",
+   "malicious": 4,
+   "suspicious": 2,
+   "harmless": 63,
+   "timestamp": "2025-12-02 14:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/politics/2025/12/01/22112365.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-02 14:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://zaycev.net/artist/21238.shtml",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ehrafworldcultures.yale.edu/cultures/rf10/summary",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-02 14:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/search/\u0432\u0441\u0435+\u0445\u0438\u0442\u044b",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-02 15:00",
+   "country": "ru",
+   "engine": "ddg"
 }
