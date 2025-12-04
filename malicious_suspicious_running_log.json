@@ -17984,4 +17984,396 @@
    "timestamp": "2025-12-04 04:03",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://www.lifeatspotify.com/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 14:21",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://sites.google.com/view/popefrancishomilies/holy-thursday",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.amazon.com/Merry-Christmas-Mariah-Carey/dp/B000002A46",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-04 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Sean_Combs",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-12-04 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.facebook.com/Diddy/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-12-04 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.tiktok.com/@diddy?lang=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-12-04 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://x.com/AppleMusic",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-04 14:22",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-latin-america-36319877",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-04 14:24",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.unrefugees.org/news/venezuela-crisis-explained/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 75,
+   "timestamp": "2025-12-04 14:24",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.hunt4freebies.com/chime-whyichime-sweepstake/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-04 14:26",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.linkedin.com/in/benwhitecir",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-12-04 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-12-04 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=UJP_JHEAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-04 14:29",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.co.uk/sport/football/teams/brentford",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 77,
+   "timestamp": "2025-12-04 14:30",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://sites.google.com/view/josephroot/home/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 14:33",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.freedownloadmanager.org/blog/?p=709",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-12-04 14:34",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.hunt4freebies.com/chime-whyichime-sweepstake/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-04 14:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.facebook.com/Diddy/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 73,
+   "timestamp": "2025-12-04 14:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tiktok.com/@diddy?lang=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-12-04 14:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://sites.northwestern.edu/hartline/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 76,
+   "timestamp": "2025-12-04 14:35",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.humanizeai.pro/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-12-04 14:36",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/place/Leeds-England",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-04 14:41",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-12-04 14:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/sport/football/teams/brentford",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-04 14:42",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.eplfixturestoday.com/epl-fixtures/wed-03-dec-2025-liverpool-vs-sunderland",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 14:44",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://x.com/Roblox",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://1c.ru/rus/partners/cra.jsp",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-12-04 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://habr.com/ru/articles/399617/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 14:45",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-12-04 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-12-04 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-europe-15047823",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-04 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.journalofdemocracy.org/what-putin-fears-most/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-12-04 14:46",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.mann-ivanov-ferber.ru/catalog/tag/strashno-interesno/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9F%D1%83%D1%82%D0%B8%D0%BD,_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80_%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B8%D1%87",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 76,
+   "timestamp": "2025-12-04 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.mann-ivanov-ferber.ru/catalog/soon/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://familytex.ru/katalog/utsenka-50/podushka-ps-32kh32kh9-332",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-12-04 14:47",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://x5days.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bitcoin.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 14:48",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/BaronHj94645",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 14:50",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://5play.games/roblox-cheats",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-04 14:50",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/LGBTQ_community",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-12-04 14:50",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://wwwshein.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 63,
+   "timestamp": "2025-12-04 14:52",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://rutab.net/b/games/2025/12/04/stoit-li-brat-durina-v-genshin-impact.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://hdfilmcehennemi-hd.com/bolum/dear-x-1-sezon-1-bolum",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-12-04 14:55",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/army/2025/12/03/22122691.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 14:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://dramafull.cc/film/41242-dear-x-2025",
+   "malicious": 4,
+   "suspicious": 1,
+   "harmless": 62,
+   "timestamp": "2025-12-04 14:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://instalker.org/hashtag/#LifeAITestnet",
+   "malicious": 3,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-12-04 14:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://webdramaturkey.co/dizi/dear-x",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-04 14:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/politics/2025/12/03/22120759.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 14:56",
+   "country": "ru",
+   "engine": "ddg"
 }
