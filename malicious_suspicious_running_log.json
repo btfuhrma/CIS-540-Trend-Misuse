@@ -17584,4 +17584,404 @@
    "timestamp": "2025-12-03 14:55",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://www.tribalcouncilblog.com/home/survivor-49-ep-1",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 03:23",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.espn.com/nba/player/_/id/3936299/jamal-murray",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-12-04 03:23",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://publictheater.org/performances-jp/2025/r/rizo/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-12-04 03:30",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.anchorofgold.com/2018/10/19/17998376/tierney-price-and-luke-kornet-discuss-their-time-at-vanderbilt-coaching-changes-and-nyc",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 03:30",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-12-04 03:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=UJP_JHEAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-04 03:32",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.espn.com/nhl/team/_/name/nyr/new-york-rangers",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-04 03:33",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/DavidLammy",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 03:33",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://x.com/AppleMusic",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-04 03:34",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=aC4GqPMAAAAJ&hl=en",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 03:37",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://scholar.google.com/citations?user=YHrZKEgAAAAJ&hl=de",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 03:38",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.greenwaydentalgroup.com/dr-madueke-ekoh/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 64,
+   "timestamp": "2025-12-04 03:39",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.espn.com/nba/player/_/id/3936299/jamal-murray",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-12-04 03:39",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://sports.yahoo.com/nba/players/5638/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-04 03:39",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Florian_Wirtz",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 71,
+   "timestamp": "2025-12-04 03:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/animal/ram-male-sheep",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 77,
+   "timestamp": "2025-12-04 03:47",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.casino.org/slots/free/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 03:47",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.espn.com/nhl/team/_/name/nyr/new-york-rangers",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-04 03:47",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/tag/avfc",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-04 03:52",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://ringmagazine.com/en/news/josh-warrington-feels-resurrected-after-retirement-decision",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 66,
+   "timestamp": "2025-12-04 03:52",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.footballmad.co.uk/tag/noni-madueke/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 03:53",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/hashtag/arsbre",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 03:53",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://x.com/Roblox",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 03:53",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.linkedin.com/in/mikemolinet",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-12-04 03:54",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-12-04 03:54",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-12-04 03:54",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://habr.com/ru/articles/399617/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 03:54",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://1c.ru/rus/partners/cra.jsp",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-12-04 03:54",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-europe-15047823",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-04 03:55",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.journalofdemocracy.org/what-putin-fears-most/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-12-04 03:55",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bitcoin.com/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-04 03:55",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://familytex.ru/katalog/utsenka-50/podushka-ps-32kh32kh9-332",
+   "malicious": 2,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-12-04 03:55",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://web.telegram.org/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-12-04 03:55",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://t.me/ipotekabankofficial",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 69,
+   "timestamp": "2025-12-04 03:55",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.gazeta.ru/tags/media/ria_novosti.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 71,
+   "timestamp": "2025-12-04 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.okolo.ru/shows/yesterday/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-04 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.mann-ivanov-ferber.ru/catalog/soon/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/China",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-12-04 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://developers.facebook.com/docs/whatsapp/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-04 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://5play.games/roblox-mod-menu",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-04 03:58",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u041c\u043e\u0441\u043a\u0432\u0430_(\u0440\u0435\u043a\u0430)",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 77,
+   "timestamp": "2025-12-04 03:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://traveller-eu.ru/moskva",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 78,
+   "timestamp": "2025-12-04 03:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.inpearls.ru/\u0441\u043a\u043e\u0440\u043e+\u043d\u043e\u0432\u044b\u0439+\u0433\u043e\u0434?page=2",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://androeed.ru/files/whatsapp-messenger.html",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 75,
+   "timestamp": "2025-12-04 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://rutab.net/b/games/2025/12/02/data-vyhoda-genshin-impact-62-luna-iii-i-banner-durina.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 04:02",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://shikimori.one/characters/246959-il-dottore",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 65,
+   "timestamp": "2025-12-04 04:02",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://sites.google.com/view/login--roblox/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 04:02",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/music/songs/suno-ai-\u0445\u043e\u0442\u0435\u043b\u043e\u0441\u044c-\u0431\u044b-\u043a\u0443\u043f\u0438\u0442\u044c-\u043c\u043e\u043b\u043e\u0434\u043e\u0441\u0442\u044c-\u043d\u043e-\u0433\u0434\u0435-\u0436-\u0435\u0451-\u0446\u0435\u043d\u0430-trekson-net-5f09ca4740885c1c649b3b6bad4c9ffc",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-04 04:02",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://bittopup.com/ru/article/durin-build-guide-best-weapons-artifacts-teams-2025",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-04 04:03",
+   "country": "ru",
+   "engine": "ddg"
 }
