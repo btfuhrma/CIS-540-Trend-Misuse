@@ -18376,4 +18376,412 @@
    "timestamp": "2025-12-04 14:56",
    "country": "ru",
    "engine": "ddg"
+}{
+   "URL": "https://www.espn.com/nba/player/_/id/4431678/tyrese-maxey",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-05 03:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://en.wikipedia.org/wiki/Pat_Spencer_(basketball)",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-12-05 03:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://www.ttc.ca/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 67,
+   "timestamp": "2025-12-05 03:25",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://connectedwarriors.org/",
+   "malicious": 1,
+   "suspicious": 2,
+   "harmless": 64,
+   "timestamp": "2025-12-05 03:26",
+   "country": "us",
+   "engine": "google"
+}{
+   "URL": "https://amorimcorksolutions.com/en-us/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-05 03:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://sites.google.com/view/josephroot/home/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 03:31",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/entertainment-arts-27046865",
+   "malicious": 0,
+   "suspicious": 2,
+   "harmless": 71,
+   "timestamp": "2025-12-05 03:33",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/app/3551340/discussions/0/603044859897893373/?l=german",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-12-05 03:36",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/app/3551340/discussions/0/603044859897893373/?l=greek",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 69,
+   "timestamp": "2025-12-05 03:36",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://steamcommunity.com/app/3551340/discussions/0/603044859897893373/?l=romanian",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-05 03:37",
+   "country": "uk",
+   "engine": "google"
+}{
+   "URL": "https://www.britannica.com/biography/LeBron-James",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-05 03:37",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.fftoday.com/stats/players/17163/Kenneth_Murray",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 03:43",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://ukdevilz.com/video/dalvsdet",
+   "malicious": 1,
+   "suspicious": 3,
+   "harmless": 65,
+   "timestamp": "2025-12-05 03:43",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumgik.com/tag/onepride",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-12-05 03:43",
+   "country": "us",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/art/Eurovision-Song-Contest",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-05 03:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.britannica.com/place/Leeds-England",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 79,
+   "timestamp": "2025-12-05 03:45",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.eplfixturestoday.com/epl-fixtures/wed-03-dec-2025-liverpool-vs-sunderland",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 03:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.tumlook.com/imaceleb",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 03:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.youtube.com/watch?v=iCfxhjWLwbk",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 72,
+   "timestamp": "2025-12-05 03:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://www.bbc.com/aboutthebbc/",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 82,
+   "timestamp": "2025-12-05 03:46",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://celebrity-birthdays.com/people/daisy-cooper",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 03:50",
+   "country": "uk",
+   "engine": "ddg"
+}{
+   "URL": "https://x.com/Roblox",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-05 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.linkedin.com/company/roblox",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 72,
+   "timestamp": "2025-12-05 03:51",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://blog.x.com/en_us/topics/company/2020/suspension",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 68,
+   "timestamp": "2025-12-05 03:52",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-12-05 03:52",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B8%D0%B9_%D0%9A%D1%80%D0%B5%D0%BC%D0%BB%D1%8C",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 79,
+   "timestamp": "2025-12-05 03:52",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "http://ryazankreml.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-05 03:52",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/%D0%98%D0%BD%D0%B4%D0%B8%D0%B9",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-12-05 03:53",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.realno.te.ua/",
+   "malicious": 2,
+   "suspicious": 0,
+   "harmless": 55,
+   "timestamp": "2025-12-05 03:53",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://1c.ru/rus/partners/cra.jsp",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 70,
+   "timestamp": "2025-12-05 03:53",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://habr.com/ru/articles/399617/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-05 03:53",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.bbc.com/news/world-europe-15047823",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 78,
+   "timestamp": "2025-12-05 03:54",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.journalofdemocracy.org/what-putin-fears-most/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 70,
+   "timestamp": "2025-12-05 03:54",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://my.mail.ru/music/playlists/%D1%81%D0%BE%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D1%83%D1%8E-%D1%87%D1%82%D0%BE-%D0%B2%D1%8B-%D1%82%D0%B0%D0%BA-%D1%87%D1%83%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B5%D1%82%D0%B5-%D1%80%D0%B5%D0%B1%D0%B5%D0%BA%D0%BA%D0%B0-%D1%83%D1%8D%D0%B9%D1%82-3515418123593",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-05 03:54",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/liuhequan1",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 03:55",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://vladmuseum.ru/ru/geografiya-muzeya/suzdal/muzeynyy-kompleks-kreml/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://www.sotwe.com/bing3232320G",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 03:56",
+   "country": "ru",
+   "engine": "google"
+}{
+   "URL": "https://wvwv-roblox.com/",
+   "malicious": 15,
+   "suspicious": 0,
+   "harmless": 53,
+   "timestamp": "2025-12-05 03:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.101soundboards.com/boards/197018-aaaaa-soundboard",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-05 03:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u041a\u0440\u0435\u043c\u043b\u044c",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 83,
+   "timestamp": "2025-12-05 03:56",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://ru.wikipedia.org/wiki/\u041b\u0413\u0411\u0422-\u0434\u0432\u0438\u0436\u0435\u043d\u0438\u0435",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 03:57",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://wwwshein.ru/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 63,
+   "timestamp": "2025-12-05 03:57",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.gazeta.ru/tech/22125925/chto-takoe-roblox.shtml",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-05 03:59",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://mp3bass.cc/music/a-a-aaa-aaaa-song-tik-tok.html",
+   "malicious": 1,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-12-05 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.sotwe.com/azgindefnee",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://www.medicaldaily.com/revolutionizing-ai-healthcare-how-medical-ai-tools-power-faster-early-diagnosis-tech-474150",
+   "malicious": 0,
+   "suspicious": 1,
+   "harmless": 65,
+   "timestamp": "2025-12-05 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "http://genna7wt.bget.ru/events/netronutye-i-maloizvestnye-turistam-ugolki-evropy.html",
+   "malicious": 5,
+   "suspicious": 0,
+   "harmless": 64,
+   "timestamp": "2025-12-05 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://my.mail.ru/bk/grsgssw/video/_myvideo/29.html",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 68,
+   "timestamp": "2025-12-05 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://bittopup.com/ru/article/Durin-Banner-Guide-Rates-Pity-Pull-Strategy-Dec-2025",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 66,
+   "timestamp": "2025-12-05 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://instalker.org/search/#LifeAITestnet",
+   "malicious": 3,
+   "suspicious": 1,
+   "harmless": 64,
+   "timestamp": "2025-12-05 04:00",
+   "country": "ru",
+   "engine": "ddg"
+}{
+   "URL": "https://lolz.live/threads/9441845/",
+   "malicious": 1,
+   "suspicious": 0,
+   "harmless": 67,
+   "timestamp": "2025-12-05 04:00",
+   "country": "ru",
+   "engine": "ddg"
 }
