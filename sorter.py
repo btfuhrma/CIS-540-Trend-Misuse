@@ -33,8 +33,8 @@ sorted_results = sorted(all_results, key=lambda x: x["malicious"], reverse=True)
 table_data = []
 found_counts = {"Yes": 0, "No": 0, "Error": 0}
 
-for entry in sorted_results[:50]:
-    search_term = entry['search_term']
+for entry in sorted_results[:173]:
+    search_term = entry['search_term'].strip("#")
     url = entry['url']
     try:
         response = requests.get(url, timeout=10)
@@ -77,9 +77,9 @@ for bar in bars:
         fontsize=12
     )
 
-plt.xlabel("Found in HTML")
+plt.xlabel("URLs Classified As Malicious (Strict Criteria)")
 plt.ylabel("Count")
-plt.title("Distribution of Yes / No / Error (Found in HTML)")
+plt.title("Search Term Found in HTML Metadata")
 plt.tight_layout()
 
 # Save as PNG
