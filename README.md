@@ -39,19 +39,19 @@ This repository contains the scripts, data, and final analysis for a project ana
         <b>Disclaimer 2</b>: Steps 1-4 must be run on the same day as the naming convention of the files is based on dates to use the latest collected data. <br>
         <b>Disclaimer 3</b>: sorter_v2.py is connected to graph_plotter.py and must be run sequentially. sorter.py, however, can be run by itself. <br>
         1. Run Trends Scraper<br>
-            > python twitterTrendsScraperV2.py<br>
+            python twitterTrendsScraperV2.py<br>
         2. Run DDG Collector<br>
-            > python ddg_trends_US.py<br>
-            > python ddg_trends_UK.py<br>
-            > python ddg_trends_RU.py<br>
+            python ddg_trends_US.py<br>
+            python ddg_trends_UK.py<br>
+            python ddg_trends_RU.py<br>
         3. Run Google Collector (The ${{ secrets.UK_GOOGLE_API_KEY}} is an argument to the python file for the API keys)<br>
-            > python uk_trends_to_google_results_keyed_ratelimit.py ${{ secrets.UK_GOOGLE_API_KEY}}<br>
-            > python us_trends_to_google_results_keyed_ratelimit.py ${{ secrets.US_GOOGLE_API_KEY}}<br>
-            > python ru_trends_to_google_results_keyed_ratelimit.py ${{ secrets.RU_GOOGLE_API_KEY}}<br>
+            python uk_trends_to_google_results_keyed_ratelimit.py ${{ secrets.UK_GOOGLE_API_KEY}}<br>
+            python us_trends_to_google_results_keyed_ratelimit.py ${{ secrets.US_GOOGLE_API_KEY}}<br>
+            python ru_trends_to_google_results_keyed_ratelimit.py ${{ secrets.RU_GOOGLE_API_KEY}}<br>
         4. Run VirusTotal (The ${{ secrets.ACADEMIC_API_KEY }} is an argument to the python file for the API key)<br>
-            > python virus_total_check_CSVinput_V2.py ${{ secrets.ACADEMIC_API_KEY }}<br>
+            python virus_total_check_CSVinput_V2.py ${{ secrets.ACADEMIC_API_KEY }}<br>
         5. Run Post-Processing<br>
-            > python sorter.py<br>
-            > python sorter_v2.py <br>
-            > python graph_plotter.py<br>
+            python sorter.py<br>
+            python sorter_v2.py <br>
+            python graph_plotter.py<br>
             
