@@ -1,6 +1,6 @@
 This repository contains the scripts, data, and final analysis for a project analyzing the use of malicious and suspicious URLs among trending topics scraped from social media (Twitter/X) and searched across two search engines (Google and DuckDuckGo). The goal was to quantify the rate at which trending search terms lead users to unsafe websites, and analyze how this rate varies by search engine and region between the United States, the United Kingdom, and Russia.
 <br>
-<b>Project Scope<b> <br>
+<b>Project Scope</b> <br>
     The core of this project is an automated pipeline that performs continuous data collection, security analysis, and post-processing of web content. <br>
     The pipeline operated in four main stages: <br>
         1. Trend Collection: Sourcing current trending topics from various geographic regions (US, UK, Russia). <br>
@@ -8,7 +8,7 @@ This repository contains the scripts, data, and final analysis for a project ana
         3. Security Analysis: Submitting all collected URLs to the VirusTotal API for comprehensive malware and anti-virus scanning. <br>
         4. Post-Processing: Analyzing the content of highly malicious URLs to determine if they explicitly embedded the originating trend term. <br>
 <br>
-<b>Components:<b><br>
+<b>Components:</b><br>
     1. Trend Collection - twitterTrendsScraperV2.py - Scrapes real-time trending topics from the chosen web source (twittrend.us) for the US, UK, and Russia. <br>
     2. Search Collection - Uk_trends_to_google_results_keyed_ratelimit.py, us_trends_to_google_results_keyed_ratelimit.py, ru_trends_to_google_results_keyed_ratelimit.py <br>
         Queries Google Custom Search Engine (CSE) for trend results, implementing rate limiting and exponential backoff. <br>
@@ -16,13 +16,13 @@ This repository contains the scripts, data, and final analysis for a project ana
     4. Security Analysis - virus_total_check_CSVinput_V2.py - Aggregates daily search results from all regions/engines and submits URLs to the VirusTotal API for scanning. <br>
     5. Post-Processing - sorter.py - Aggregates all VirusTotal logs, sorts URLs by malicious count, and performs HTML content analysis on the top 50 most malicious URLs. <br>
 <br>
-<b>Outputs:<b> <br>
+<b>Outputs:</b> <br>
     1. Raw Search Results: Stored in regional rolling master CSVs (e.g., us_google_results_master.csv, ddg_results_master.csv). <br>
     2. VirusTotal Results: Daily raw JSON files containing the detailed findings from 70+ anti-virus engines for every scanned URL (stored in the VirusTotalResults/ folder).<br>
     3. Malicious Log: A running text file (malicious_suspicious_running_log) that tracks all URLs flagged as malicious or suspicious for long-term monitoring.<br>
     4. Final Content Analysis: The output of sorter.py, which produces a table showing whether the original search trend was found within the fetched HTML of the most malicious pages.<br>
 <br>
-<b>Execution:<b><br>
+<b>Execution:</b><br>
     Prerequisites:<br>
         1. Python 3.x<br>
         2. Required libraries (requests, beautifulsoup4, tabulate, ddgs, csv, json, pandas).<br>
