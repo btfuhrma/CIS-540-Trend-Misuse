@@ -35,9 +35,9 @@ This repository contains the scripts, data, and final analysis for a project ana
     <br>
     Running the Project:<br>
         To run the pipeline manually, execute the scripts in the sequence listed below.<br>
-        <b>Disclaimer 1</br>: Reproducing the analysis can be done without steps 1-4 using previously collected data in VirusTotalResults folder.<br>
-        <br>Disclaimer 2</br>: Steps 1-4 must be run on the same day as the naming convention of the files is based on dates to use the latest collected data. <br>
-        <br>Disclaimer 3</br>: sorter_v2.py is connected to graph_plotter.py and must be run sequentially. sorter.py, however, can be run by itself. <br>
+        <b>Disclaimer 1</b>: Reproducing the analysis can be done without steps 1-4 using previously collected data in VirusTotalResults folder.<br>
+        <b>Disclaimer 2</b>: Steps 1-4 must be run on the same day as the naming convention of the files is based on dates to use the latest collected data. <br>
+        <b>Disclaimer 3</b>: sorter_v2.py is connected to graph_plotter.py and must be run sequentially. sorter.py, however, can be run by itself. <br>
         1. Run Trends Scraper<br>
             python twitterTrendsScraperV2.py<br>
         2. Run DDG Collector<br>
